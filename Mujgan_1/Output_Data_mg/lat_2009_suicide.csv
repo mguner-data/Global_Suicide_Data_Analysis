@@ -1,0 +1,1033 @@
+country,continent,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year,gdp_for_year ($) ,gdp_per_capita ($),generation,latitude,longitude
+Argentina,South America,2009,male,75+ years,177,653486,27.09,Argentina2009,,"332,976,484,578",8961,Silent,-38.416097,-63.616671999999994
+Argentina,South America,2009,male,15-24 years,609,3436265,17.72,Argentina2009,,"332,976,484,578",8961,Millenials,-38.416097,-63.616671999999994
+Argentina,South America,2009,male,55-74 years,434,2683502,16.17,Argentina2009,,"332,976,484,578",8961,Silent,-38.416097,-63.616671999999994
+Argentina,South America,2009,male,25-34 years,504,3210244,15.7,Argentina2009,,"332,976,484,578",8961,Generation X,-38.416097,-63.616671999999994
+Argentina,South America,2009,male,35-54 years,542,4566645,11.87,Argentina2009,,"332,976,484,578",8961,Boomers,-38.416097,-63.616671999999994
+Argentina,South America,2009,female,15-24 years,164,3342385,4.91,Argentina2009,,"332,976,484,578",8961,Millenials,-38.416097,-63.616671999999994
+Argentina,South America,2009,female,55-74 years,112,3148915,3.56,Argentina2009,,"332,976,484,578",8961,Silent,-38.416097,-63.616671999999994
+Argentina,South America,2009,female,25-34 years,105,3189773,3.29,Argentina2009,,"332,976,484,578",8961,Generation X,-38.416097,-63.616671999999994
+Argentina,South America,2009,female,35-54 years,150,4726814,3.17,Argentina2009,,"332,976,484,578",8961,Boomers,-38.416097,-63.616671999999994
+Argentina,South America,2009,female,75+ years,25,1211934,2.06,Argentina2009,,"332,976,484,578",8961,Silent,-38.416097,-63.616671999999994
+Argentina,South America,2009,male,5-14 years,34,3553154,0.96,Argentina2009,,"332,976,484,578",8961,Generation Z,-38.416097,-63.616671999999994
+Argentina,South America,2009,female,5-14 years,28,3434884,0.82,Argentina2009,,"332,976,484,578",8961,Generation Z,-38.416097,-63.616671999999994
+Armenia,Europe,2009,male,75+ years,8,50759,15.76,Armenia2009,,"8,647,936,748",3215,Silent,40.069099,45.038189
+Armenia,Europe,2009,male,55-74 years,11,189632,5.8,Armenia2009,,"8,647,936,748",3215,Silent,40.069099,45.038189
+Armenia,Europe,2009,male,35-54 years,17,351694,4.83,Armenia2009,,"8,647,936,748",3215,Boomers,40.069099,45.038189
+Armenia,Europe,2009,male,15-24 years,5,259772,1.92,Armenia2009,,"8,647,936,748",3215,Millenials,40.069099,45.038189
+Armenia,Europe,2009,female,75+ years,1,79728,1.25,Armenia2009,,"8,647,936,748",3215,Silent,40.069099,45.038189
+Armenia,Europe,2009,female,55-74 years,3,248767,1.21,Armenia2009,,"8,647,936,748",3215,Silent,40.069099,45.038189
+Armenia,Europe,2009,male,25-34 years,2,198646,1.01,Armenia2009,,"8,647,936,748",3215,Generation X,40.069099,45.038189
+Armenia,Europe,2009,female,25-34 years,2,230582,0.87,Armenia2009,,"8,647,936,748",3215,Generation X,40.069099,45.038189
+Armenia,Europe,2009,female,35-54 years,3,433390,0.69,Armenia2009,,"8,647,936,748",3215,Boomers,40.069099,45.038189
+Armenia,Europe,2009,female,15-24 years,1,278535,0.36,Armenia2009,,"8,647,936,748",3215,Millenials,40.069099,45.038189
+Armenia,Europe,2009,female,5-14 years,0,172560,0.0,Armenia2009,,"8,647,936,748",3215,Generation Z,40.069099,45.038189
+Armenia,Europe,2009,male,5-14 years,0,195630,0.0,Armenia2009,,"8,647,936,748",3215,Generation Z,40.069099,45.038189
+Aruba,South America,2009,male,25-34 years,1,5729,17.46,Aruba2009,,"2,498,932,961",26361,Generation X,12.52111,-69.968338
+Aruba,South America,2009,male,35-54 years,2,15734,12.71,Aruba2009,,"2,498,932,961",26361,Boomers,12.52111,-69.968338
+Aruba,South America,2009,male,55-74 years,1,8291,12.06,Aruba2009,,"2,498,932,961",26361,Silent,12.52111,-69.968338
+Aruba,South America,2009,female,15-24 years,0,6152,0.0,Aruba2009,,"2,498,932,961",26361,Millenials,12.52111,-69.968338
+Aruba,South America,2009,female,25-34 years,0,6646,0.0,Aruba2009,,"2,498,932,961",26361,Generation X,12.52111,-69.968338
+Aruba,South America,2009,female,35-54 years,0,18003,0.0,Aruba2009,,"2,498,932,961",26361,Boomers,12.52111,-69.968338
+Aruba,South America,2009,female,5-14 years,0,7178,0.0,Aruba2009,,"2,498,932,961",26361,Generation Z,12.52111,-69.968338
+Aruba,South America,2009,female,55-74 years,0,9744,0.0,Aruba2009,,"2,498,932,961",26361,Silent,12.52111,-69.968338
+Aruba,South America,2009,female,75+ years,0,2131,0.0,Aruba2009,,"2,498,932,961",26361,Silent,12.52111,-69.968338
+Aruba,South America,2009,male,15-24 years,0,6380,0.0,Aruba2009,,"2,498,932,961",26361,Millenials,12.52111,-69.968338
+Aruba,South America,2009,male,5-14 years,0,7420,0.0,Aruba2009,,"2,498,932,961",26361,Generation Z,12.52111,-69.968338
+Aruba,South America,2009,male,75+ years,0,1387,0.0,Aruba2009,,"2,498,932,961",26361,Silent,12.52111,-69.968338
+Australia,Oceania,2009,male,35-54 years,755,3051649,24.74,Australia2009,,"926,448,240,318",45128,Boomers,-25.274398,133.775136
+Australia,Oceania,2009,male,75+ years,135,566784,23.82,Australia2009,,"926,448,240,318",45128,Silent,-25.274398,133.775136
+Australia,Oceania,2009,male,25-34 years,336,1567118,21.44,Australia2009,,"926,448,240,318",45128,Generation X,-25.274398,133.775136
+Australia,Oceania,2009,male,55-74 years,349,1991883,17.52,Australia2009,,"926,448,240,318",45128,Silent,-25.274398,133.775136
+Australia,Oceania,2009,male,15-24 years,210,1605456,13.08,Australia2009,,"926,448,240,318",45128,Millenials,-25.274398,133.775136
+Australia,Oceania,2009,female,35-54 years,221,3104929,7.12,Australia2009,,"926,448,240,318",45128,Boomers,-25.274398,133.775136
+Australia,Oceania,2009,female,25-34 years,103,1541393,6.68,Australia2009,,"926,448,240,318",45128,Generation X,-25.274398,133.775136
+Australia,Oceania,2009,female,55-74 years,116,2037989,5.69,Australia2009,,"926,448,240,318",45128,Silent,-25.274398,133.775136
+Australia,Oceania,2009,female,75+ years,43,792218,5.43,Australia2009,,"926,448,240,318",45128,Silent,-25.274398,133.775136
+Australia,Oceania,2009,female,15-24 years,66,1506719,4.38,Australia2009,,"926,448,240,318",45128,Millenials,-25.274398,133.775136
+Australia,Oceania,2009,female,5-14 years,3,1345910,0.22,Australia2009,,"926,448,240,318",45128,Generation Z,-25.274398,133.775136
+Australia,Oceania,2009,male,5-14 years,0,1417269,0.0,Australia2009,,"926,448,240,318",45128,Generation Z,-25.274398,133.775136
+Austria,Europe,2009,male,75+ years,187,235822,79.3,Austria2009,,"400,172,297,861",50356,Silent,47.516231,14.550072
+Austria,Europe,2009,male,55-74 years,279,823727,33.87,Austria2009,,"400,172,297,861",50356,Silent,47.516231,14.550072
+Austria,Europe,2009,male,35-54 years,332,1297322,25.59,Austria2009,,"400,172,297,861",50356,Boomers,47.516231,14.550072
+Austria,Europe,2009,male,25-34 years,99,542799,18.24,Austria2009,,"400,172,297,861",50356,Generation X,47.516231,14.550072
+Austria,Europe,2009,female,75+ years,68,430726,15.79,Austria2009,,"400,172,297,861",50356,Silent,47.516231,14.550072
+Austria,Europe,2009,male,15-24 years,72,519901,13.85,Austria2009,,"400,172,297,861",50356,Millenials,47.516231,14.550072
+Austria,Europe,2009,female,55-74 years,103,908213,11.34,Austria2009,,"400,172,297,861",50356,Silent,47.516231,14.550072
+Austria,Europe,2009,female,35-54 years,101,1289816,7.83,Austria2009,,"400,172,297,861",50356,Boomers,47.516231,14.550072
+Austria,Europe,2009,female,25-34 years,18,539304,3.34,Austria2009,,"400,172,297,861",50356,Generation X,47.516231,14.550072
+Austria,Europe,2009,female,15-24 years,11,501225,2.19,Austria2009,,"400,172,297,861",50356,Millenials,47.516231,14.550072
+Austria,Europe,2009,female,5-14 years,5,418410,1.2,Austria2009,,"400,172,297,861",50356,Generation Z,47.516231,14.550072
+Austria,Europe,2009,male,5-14 years,3,439629,0.68,Austria2009,,"400,172,297,861",50356,Generation Z,47.516231,14.550072
+Bahamas,North America,2009,male,15-24 years,2,31432,6.36,Bahamas2009,,"9,981,960,000",30450,Millenials,25.03428,-77.39628
+Bahamas,North America,2009,male,35-54 years,2,48784,4.1,Bahamas2009,,"9,981,960,000",30450,Boomers,25.03428,-77.39628
+Bahamas,North America,2009,male,25-34 years,1,27862,3.59,Bahamas2009,,"9,981,960,000",30450,Generation X,25.03428,-77.39628
+Bahamas,North America,2009,female,35-54 years,1,51877,1.93,Bahamas2009,,"9,981,960,000",30450,Boomers,25.03428,-77.39628
+Bahamas,North America,2009,female,15-24 years,0,31298,0.0,Bahamas2009,,"9,981,960,000",30450,Millenials,25.03428,-77.39628
+Bahamas,North America,2009,female,25-34 years,0,28059,0.0,Bahamas2009,,"9,981,960,000",30450,Generation X,25.03428,-77.39628
+Bahamas,North America,2009,female,5-14 years,0,27474,0.0,Bahamas2009,,"9,981,960,000",30450,Generation Z,25.03428,-77.39628
+Bahamas,North America,2009,female,55-74 years,0,23987,0.0,Bahamas2009,,"9,981,960,000",30450,Silent,25.03428,-77.39628
+Bahamas,North America,2009,female,75+ years,0,5515,0.0,Bahamas2009,,"9,981,960,000",30450,Silent,25.03428,-77.39628
+Bahamas,North America,2009,male,5-14 years,0,28311,0.0,Bahamas2009,,"9,981,960,000",30450,Generation Z,25.03428,-77.39628
+Bahamas,North America,2009,male,55-74 years,0,20196,0.0,Bahamas2009,,"9,981,960,000",30450,Silent,25.03428,-77.39628
+Bahamas,North America,2009,male,75+ years,0,3018,0.0,Bahamas2009,,"9,981,960,000",30450,Silent,25.03428,-77.39628
+Bahrain,Asia,2009,male,35-54 years,14,242558,5.77,Bahrain2009,,"22,938,218,085",20988,Boomers,25.930414000000003,50.637772
+Bahrain,Asia,2009,male,25-34 years,9,222448,4.05,Bahrain2009,,"22,938,218,085",20988,Generation X,25.930414000000003,50.637772
+Bahrain,Asia,2009,female,25-34 years,4,99580,4.02,Bahrain2009,,"22,938,218,085",20988,Generation X,25.930414000000003,50.637772
+Bahrain,Asia,2009,male,15-24 years,4,102256,3.91,Bahrain2009,,"22,938,218,085",20988,Millenials,25.930414000000003,50.637772
+Bahrain,Asia,2009,male,55-74 years,1,38002,2.63,Bahrain2009,,"22,938,218,085",20988,Silent,25.930414000000003,50.637772
+Bahrain,Asia,2009,male,5-14 years,2,79180,2.53,Bahrain2009,,"22,938,218,085",20988,Generation Z,25.930414000000003,50.637772
+Bahrain,Asia,2009,female,35-54 years,2,118835,1.68,Bahrain2009,,"22,938,218,085",20988,Boomers,25.930414000000003,50.637772
+Bahrain,Asia,2009,female,15-24 years,0,80832,0.0,Bahrain2009,,"22,938,218,085",20988,Millenials,25.930414000000003,50.637772
+Bahrain,Asia,2009,female,5-14 years,0,75122,0.0,Bahrain2009,,"22,938,218,085",20988,Generation Z,25.930414000000003,50.637772
+Bahrain,Asia,2009,female,55-74 years,0,25915,0.0,Bahrain2009,,"22,938,218,085",20988,Silent,25.930414000000003,50.637772
+Bahrain,Asia,2009,female,75+ years,0,4103,0.0,Bahrain2009,,"22,938,218,085",20988,Silent,25.930414000000003,50.637772
+Bahrain,Asia,2009,male,75+ years,0,4091,0.0,Bahrain2009,,"22,938,218,085",20988,Silent,25.930414000000003,50.637772
+Barbados,North America,2009,male,75+ years,1,6022,16.61,Barbados2009,,"4,434,050,000",17007,Silent,13.193887,-59.543198
+Barbados,North America,2009,male,35-54 years,3,39442,7.61,Barbados2009,,"4,434,050,000",17007,Boomers,13.193887,-59.543198
+Barbados,North America,2009,male,55-74 years,1,21837,4.58,Barbados2009,,"4,434,050,000",17007,Silent,13.193887,-59.543198
+Barbados,North America,2009,female,15-24 years,0,18898,0.0,Barbados2009,,"4,434,050,000",17007,Millenials,13.193887,-59.543198
+Barbados,North America,2009,female,25-34 years,0,19762,0.0,Barbados2009,,"4,434,050,000",17007,Generation X,13.193887,-59.543198
+Barbados,North America,2009,female,35-54 years,0,43400,0.0,Barbados2009,,"4,434,050,000",17007,Boomers,13.193887,-59.543198
+Barbados,North America,2009,female,5-14 years,0,18606,0.0,Barbados2009,,"4,434,050,000",17007,Generation Z,13.193887,-59.543198
+Barbados,North America,2009,female,55-74 years,0,25695,0.0,Barbados2009,,"4,434,050,000",17007,Silent,13.193887,-59.543198
+Barbados,North America,2009,female,75+ years,0,9752,0.0,Barbados2009,,"4,434,050,000",17007,Silent,13.193887,-59.543198
+Barbados,North America,2009,male,15-24 years,0,18881,0.0,Barbados2009,,"4,434,050,000",17007,Millenials,13.193887,-59.543198
+Barbados,North America,2009,male,25-34 years,0,19044,0.0,Barbados2009,,"4,434,050,000",17007,Generation X,13.193887,-59.543198
+Barbados,North America,2009,male,5-14 years,0,19379,0.0,Barbados2009,,"4,434,050,000",17007,Generation Z,13.193887,-59.543198
+Belarus,Europe,2009,male,75+ years,145,159050,91.17,Belarus2009,,"49,209,523,810",5366,Silent,53.709807,27.953389
+Belarus,Europe,2009,male,35-54 years,903,1390214,64.95,Belarus2009,,"49,209,523,810",5366,Boomers,53.709807,27.953389
+Belarus,Europe,2009,male,55-74 years,466,726459,64.15,Belarus2009,,"49,209,523,810",5366,Silent,53.709807,27.953389
+Belarus,Europe,2009,male,25-34 years,445,754796,58.96,Belarus2009,,"49,209,523,810",5366,Generation X,53.709807,27.953389
+Belarus,Europe,2009,male,15-24 years,270,749519,36.02,Belarus2009,,"49,209,523,810",5366,Millenials,53.709807,27.953389
+Belarus,Europe,2009,female,75+ years,74,434130,17.05,Belarus2009,,"49,209,523,810",5366,Silent,53.709807,27.953389
+Belarus,Europe,2009,female,55-74 years,144,1073032,13.42,Belarus2009,,"49,209,523,810",5366,Silent,53.709807,27.953389
+Belarus,Europe,2009,female,35-54 years,165,1507662,10.94,Belarus2009,,"49,209,523,810",5366,Boomers,53.709807,27.953389
+Belarus,Europe,2009,female,25-34 years,74,737605,10.03,Belarus2009,,"49,209,523,810",5366,Generation X,53.709807,27.953389
+Belarus,Europe,2009,female,15-24 years,45,716695,6.28,Belarus2009,,"49,209,523,810",5366,Millenials,53.709807,27.953389
+Belarus,Europe,2009,male,5-14 years,9,473483,1.9,Belarus2009,,"49,209,523,810",5366,Generation Z,53.709807,27.953389
+Belarus,Europe,2009,female,5-14 years,3,447324,0.67,Belarus2009,,"49,209,523,810",5366,Generation Z,53.709807,27.953389
+Belgium,Europe,2009,male,75+ years,173,349801,49.46,Belgium2009,,"484,552,792,442",47630,Silent,50.503887,4.469936
+Belgium,Europe,2009,male,35-54 years,645,1576175,40.92,Belgium2009,,"484,552,792,442",47630,Boomers,50.503887,4.469936
+Belgium,Europe,2009,male,55-74 years,366,1075825,34.02,Belgium2009,,"484,552,792,442",47630,Silent,50.503887,4.469936
+Belgium,Europe,2009,male,25-34 years,181,694716,26.05,Belgium2009,,"484,552,792,442",47630,Generation X,50.503887,4.469936
+Belgium,Europe,2009,female,55-74 years,177,1148108,15.42,Belgium2009,,"484,552,792,442",47630,Silent,50.503887,4.469936
+Belgium,Europe,2009,female,35-54 years,229,1547499,14.8,Belgium2009,,"484,552,792,442",47630,Boomers,50.503887,4.469936
+Belgium,Europe,2009,male,15-24 years,90,661817,13.6,Belgium2009,,"484,552,792,442",47630,Millenials,50.503887,4.469936
+Belgium,Europe,2009,female,75+ years,58,582517,9.96,Belgium2009,,"484,552,792,442",47630,Silent,50.503887,4.469936
+Belgium,Europe,2009,female,25-34 years,52,690235,7.53,Belgium2009,,"484,552,792,442",47630,Generation X,50.503887,4.469936
+Belgium,Europe,2009,female,15-24 years,34,646252,5.26,Belgium2009,,"484,552,792,442",47630,Millenials,50.503887,4.469936
+Belgium,Europe,2009,female,5-14 years,4,587237,0.68,Belgium2009,,"484,552,792,442",47630,Generation Z,50.503887,4.469936
+Belgium,Europe,2009,male,5-14 years,4,613184,0.65,Belgium2009,,"484,552,792,442",47630,Generation Z,50.503887,4.469936
+Belize,North America,2009,male,15-24 years,5,31526,15.86,Belize2009,,"1,336,957,250",4841,Millenials,17.189877,-88.49765
+Belize,North America,2009,male,25-34 years,3,23713,12.65,Belize2009,,"1,336,957,250",4841,Generation X,17.189877,-88.49765
+Belize,North America,2009,male,55-74 years,1,10523,9.5,Belize2009,,"1,336,957,250",4841,Silent,17.189877,-88.49765
+Belize,North America,2009,female,15-24 years,3,31873,9.41,Belize2009,,"1,336,957,250",4841,Millenials,17.189877,-88.49765
+Belize,North America,2009,male,35-54 years,2,31734,6.3,Belize2009,,"1,336,957,250",4841,Boomers,17.189877,-88.49765
+Belize,North America,2009,female,25-34 years,1,24742,4.04,Belize2009,,"1,336,957,250",4841,Generation X,17.189877,-88.49765
+Belize,North America,2009,female,35-54 years,0,31606,0.0,Belize2009,,"1,336,957,250",4841,Boomers,17.189877,-88.49765
+Belize,North America,2009,female,5-14 years,0,37982,0.0,Belize2009,,"1,336,957,250",4841,Generation Z,17.189877,-88.49765
+Belize,North America,2009,female,55-74 years,0,9786,0.0,Belize2009,,"1,336,957,250",4841,Silent,17.189877,-88.49765
+Belize,North America,2009,female,75+ years,0,2251,0.0,Belize2009,,"1,336,957,250",4841,Silent,17.189877,-88.49765
+Belize,North America,2009,male,5-14 years,0,38375,0.0,Belize2009,,"1,336,957,250",4841,Generation Z,17.189877,-88.49765
+Belize,North America,2009,male,75+ years,0,2078,0.0,Belize2009,,"1,336,957,250",4841,Silent,17.189877,-88.49765
+Brazil,South America,2009,male,75+ years,295,1803127,16.36,Brazil2009,,"1,667,019,780,934",9283,Silent,-14.235004,-51.92528
+Brazil,South America,2009,male,55-74 years,1271,10398573,12.22,Brazil2009,,"1,667,019,780,934",9283,Silent,-14.235004,-51.92528
+Brazil,South America,2009,male,35-54 years,2737,24035191,11.39,Brazil2009,,"1,667,019,780,934",9283,Boomers,-14.235004,-51.92528
+Brazil,South America,2009,male,25-34 years,1838,16753314,10.97,Brazil2009,,"1,667,019,780,934",9283,Generation X,-14.235004,-51.92528
+Brazil,South America,2009,male,15-24 years,1270,17794434,7.14,Brazil2009,,"1,667,019,780,934",9283,Millenials,-14.235004,-51.92528
+Brazil,South America,2009,female,35-54 years,768,25523153,3.01,Brazil2009,,"1,667,019,780,934",9283,Boomers,-14.235004,-51.92528
+Brazil,South America,2009,female,55-74 years,301,12124076,2.48,Brazil2009,,"1,667,019,780,934",9283,Silent,-14.235004,-51.92528
+Brazil,South America,2009,female,25-34 years,351,16810330,2.09,Brazil2009,,"1,667,019,780,934",9283,Generation X,-14.235004,-51.92528
+Brazil,South America,2009,female,75+ years,58,2811556,2.06,Brazil2009,,"1,667,019,780,934",9283,Silent,-14.235004,-51.92528
+Brazil,South America,2009,female,15-24 years,343,17321655,1.98,Brazil2009,,"1,667,019,780,934",9283,Millenials,-14.235004,-51.92528
+Brazil,South America,2009,male,5-14 years,62,17421892,0.36,Brazil2009,,"1,667,019,780,934",9283,Generation Z,-14.235004,-51.92528
+Brazil,South America,2009,female,5-14 years,52,16772250,0.31,Brazil2009,,"1,667,019,780,934",9283,Generation Z,-14.235004,-51.92528
+Bulgaria,Europe,2009,male,75+ years,120,222390,53.96,Bulgaria2009,,"51,884,481,410",7186,Silent,42.733883,25.48583
+Bulgaria,Europe,2009,male,55-74 years,241,799938,30.13,Bulgaria2009,,"51,884,481,410",7186,Silent,42.733883,25.48583
+Bulgaria,Europe,2009,male,35-54 years,211,1058524,19.93,Bulgaria2009,,"51,884,481,410",7186,Boomers,42.733883,25.48583
+Bulgaria,Europe,2009,female,75+ years,63,360613,17.47,Bulgaria2009,,"51,884,481,410",7186,Silent,42.733883,25.48583
+Bulgaria,Europe,2009,male,25-34 years,60,575940,10.42,Bulgaria2009,,"51,884,481,410",7186,Generation X,42.733883,25.48583
+Bulgaria,Europe,2009,female,55-74 years,72,979605,7.35,Bulgaria2009,,"51,884,481,410",7186,Silent,42.733883,25.48583
+Bulgaria,Europe,2009,male,15-24 years,29,487528,5.95,Bulgaria2009,,"51,884,481,410",7186,Millenials,42.733883,25.48583
+Bulgaria,Europe,2009,female,35-54 years,49,1064955,4.6,Bulgaria2009,,"51,884,481,410",7186,Boomers,42.733883,25.48583
+Bulgaria,Europe,2009,female,25-34 years,13,548235,2.37,Bulgaria2009,,"51,884,481,410",7186,Generation X,42.733883,25.48583
+Bulgaria,Europe,2009,female,15-24 years,9,463505,1.94,Bulgaria2009,,"51,884,481,410",7186,Millenials,42.733883,25.48583
+Bulgaria,Europe,2009,male,5-14 years,1,338266,0.3,Bulgaria2009,,"51,884,481,410",7186,Generation Z,42.733883,25.48583
+Bulgaria,Europe,2009,female,5-14 years,0,320318,0.0,Bulgaria2009,,"51,884,481,410",7186,Generation Z,42.733883,25.48583
+Canada,North America,2009,male,35-54 years,1328,5085328,26.11,Canada2009,,"1,371,153,004,986",42933,Boomers,56.130366,-106.34677099999999
+Canada,North America,2009,male,55-74 years,680,3216246,21.14,Canada2009,,"1,371,153,004,986",42933,Silent,56.130366,-106.34677099999999
+Canada,North America,2009,male,75+ years,182,893202,20.38,Canada2009,,"1,371,153,004,986",42933,Silent,56.130366,-106.34677099999999
+Canada,North America,2009,male,25-34 years,437,2325144,18.79,Canada2009,,"1,371,153,004,986",42933,Generation X,56.130366,-106.34677099999999
+Canada,North America,2009,male,15-24 years,349,2355316,14.82,Canada2009,,"1,371,153,004,986",42933,Millenials,56.130366,-106.34677099999999
+Canada,North America,2009,female,35-54 years,402,5043261,7.97,Canada2009,,"1,371,153,004,986",42933,Boomers,56.130366,-106.34677099999999
+Canada,North America,2009,female,15-24 years,130,2238546,5.81,Canada2009,,"1,371,153,004,986",42933,Millenials,56.130366,-106.34677099999999
+Canada,North America,2009,female,55-74 years,192,3389717,5.66,Canada2009,,"1,371,153,004,986",42933,Silent,56.130366,-106.34677099999999
+Canada,North America,2009,female,25-34 years,119,2293665,5.19,Canada2009,,"1,371,153,004,986",42933,Generation X,56.130366,-106.34677099999999
+Canada,North America,2009,female,75+ years,46,1322098,3.48,Canada2009,,"1,371,153,004,986",42933,Silent,56.130366,-106.34677099999999
+Canada,North America,2009,male,5-14 years,13,1937420,0.67,Canada2009,,"1,371,153,004,986",42933,Generation Z,56.130366,-106.34677099999999
+Canada,North America,2009,female,5-14 years,12,1837414,0.65,Canada2009,,"1,371,153,004,986",42933,Generation Z,56.130366,-106.34677099999999
+Chile,South America,2009,male,75+ years,88,234780,37.48,Chile2009,,"172,389,498,445",11062,Silent,-35.675146999999996,-71.542969
+Chile,South America,2009,male,25-34 years,362,1273220,28.43,Chile2009,,"172,389,498,445",11062,Generation X,-35.675146999999996,-71.542969
+Chile,South America,2009,male,55-74 years,316,1116278,28.31,Chile2009,,"172,389,498,445",11062,Silent,-35.675146999999996,-71.542969
+Chile,South America,2009,male,35-54 years,613,2304506,26.6,Chile2009,,"172,389,498,445",11062,Boomers,-35.675146999999996,-71.542969
+Chile,South America,2009,male,15-24 years,330,1440637,22.91,Chile2009,,"172,389,498,445",11062,Millenials,-35.675146999999996,-71.542969
+Chile,South America,2009,female,15-24 years,102,1390368,7.34,Chile2009,,"172,389,498,445",11062,Millenials,-35.675146999999996,-71.542969
+Chile,South America,2009,female,25-34 years,85,1244249,6.83,Chile2009,,"172,389,498,445",11062,Generation X,-35.675146999999996,-71.542969
+Chile,South America,2009,female,35-54 years,155,2325328,6.67,Chile2009,,"172,389,498,445",11062,Boomers,-35.675146999999996,-71.542969
+Chile,South America,2009,female,55-74 years,59,1260914,4.68,Chile2009,,"172,389,498,445",11062,Silent,-35.675146999999996,-71.542969
+Chile,South America,2009,female,75+ years,12,391659,3.06,Chile2009,,"172,389,498,445",11062,Silent,-35.675146999999996,-71.542969
+Chile,South America,2009,male,5-14 years,15,1324547,1.13,Chile2009,,"172,389,498,445",11062,Generation Z,-35.675146999999996,-71.542969
+Chile,South America,2009,female,5-14 years,11,1277663,0.86,Chile2009,,"172,389,498,445",11062,Generation Z,-35.675146999999996,-71.542969
+Colombia,South America,2009,male,75+ years,72,405866,17.74,Colombia2009,,"233,821,670,544",5643,Silent,4.570868,-74.297333
+Colombia,South America,2009,male,25-34 years,426,3715402,11.47,Colombia2009,,"233,821,670,544",5643,Generation X,4.570868,-74.297333
+Colombia,South America,2009,male,55-74 years,252,2226378,11.32,Colombia2009,,"233,821,670,544",5643,Silent,4.570868,-74.297333
+Colombia,South America,2009,male,15-24 years,481,4272494,11.26,Colombia2009,,"233,821,670,544",5643,Millenials,4.570868,-74.297333
+Colombia,South America,2009,male,35-54 years,517,5552239,9.31,Colombia2009,,"233,821,670,544",5643,Boomers,4.570868,-74.297333
+Colombia,South America,2009,female,15-24 years,207,4157810,4.98,Colombia2009,,"233,821,670,544",5643,Millenials,4.570868,-74.297333
+Colombia,South America,2009,female,25-34 years,72,3780652,1.9,Colombia2009,,"233,821,670,544",5643,Generation X,4.570868,-74.297333
+Colombia,South America,2009,female,55-74 years,46,2574750,1.79,Colombia2009,,"233,821,670,544",5643,Silent,4.570868,-74.297333
+Colombia,South America,2009,female,35-54 years,87,5952480,1.46,Colombia2009,,"233,821,670,544",5643,Boomers,4.570868,-74.297333
+Colombia,South America,2009,male,5-14 years,54,4196033,1.29,Colombia2009,,"233,821,670,544",5643,Generation Z,4.570868,-74.297333
+Colombia,South America,2009,female,5-14 years,32,4027989,0.79,Colombia2009,,"233,821,670,544",5643,Generation Z,4.570868,-74.297333
+Colombia,South America,2009,female,75+ years,3,574080,0.52,Colombia2009,,"233,821,670,544",5643,Silent,4.570868,-74.297333
+Costa Rica,North America,2009,male,25-34 years,60,362045,16.57,Costa Rica2009,,"30,562,361,123",7403,Generation X,9.748917,-83.753428
+Costa Rica,North America,2009,male,35-54 years,86,571583,15.05,Costa Rica2009,,"30,562,361,123",7403,Boomers,9.748917,-83.753428
+Costa Rica,North America,2009,male,15-24 years,51,418996,12.17,Costa Rica2009,,"30,562,361,123",7403,Millenials,9.748917,-83.753428
+Costa Rica,North America,2009,male,55-74 years,32,264036,12.12,Costa Rica2009,,"30,562,361,123",7403,Silent,9.748917,-83.753428
+Costa Rica,North America,2009,male,75+ years,6,55391,10.83,Costa Rica2009,,"30,562,361,123",7403,Silent,9.748917,-83.753428
+Costa Rica,North America,2009,female,25-34 years,10,355653,2.81,Costa Rica2009,,"30,562,361,123",7403,Generation X,9.748917,-83.753428
+Costa Rica,North America,2009,female,15-24 years,11,403629,2.73,Costa Rica2009,,"30,562,361,123",7403,Millenials,9.748917,-83.753428
+Costa Rica,North America,2009,female,35-54 years,13,582223,2.23,Costa Rica2009,,"30,562,361,123",7403,Boomers,9.748917,-83.753428
+Costa Rica,North America,2009,female,55-74 years,5,275859,1.81,Costa Rica2009,,"30,562,361,123",7403,Silent,9.748917,-83.753428
+Costa Rica,North America,2009,female,5-14 years,3,375428,0.8,Costa Rica2009,,"30,562,361,123",7403,Generation Z,9.748917,-83.753428
+Costa Rica,North America,2009,male,5-14 years,1,392594,0.25,Costa Rica2009,,"30,562,361,123",7403,Generation Z,9.748917,-83.753428
+Costa Rica,North America,2009,female,75+ years,0,71022,0.0,Costa Rica2009,,"30,562,361,123",7403,Silent,9.748917,-83.753428
+Croatia,Europe,2009,male,75+ years,107,110100,97.18,Croatia2009,,"62,703,143,057",14872,Silent,45.1,15.2
+Croatia,Europe,2009,male,55-74 years,199,455148,43.72,Croatia2009,,"62,703,143,057",14872,Silent,45.1,15.2
+Croatia,Europe,2009,male,35-54 years,220,628629,35.0,Croatia2009,,"62,703,143,057",14872,Boomers,45.1,15.2
+Croatia,Europe,2009,female,75+ years,53,216621,24.47,Croatia2009,,"62,703,143,057",14872,Silent,45.1,15.2
+Croatia,Europe,2009,male,15-24 years,45,278610,16.15,Croatia2009,,"62,703,143,057",14872,Millenials,45.1,15.2
+Croatia,Europe,2009,male,25-34 years,44,316164,13.92,Croatia2009,,"62,703,143,057",14872,Generation X,45.1,15.2
+Croatia,Europe,2009,female,55-74 years,63,537865,11.71,Croatia2009,,"62,703,143,057",14872,Silent,45.1,15.2
+Croatia,Europe,2009,female,35-54 years,45,634366,7.09,Croatia2009,,"62,703,143,057",14872,Boomers,45.1,15.2
+Croatia,Europe,2009,female,25-34 years,7,306319,2.29,Croatia2009,,"62,703,143,057",14872,Generation X,45.1,15.2
+Croatia,Europe,2009,female,15-24 years,4,267054,1.5,Croatia2009,,"62,703,143,057",14872,Millenials,45.1,15.2
+Croatia,Europe,2009,male,5-14 years,3,238176,1.26,Croatia2009,,"62,703,143,057",14872,Generation Z,45.1,15.2
+Croatia,Europe,2009,female,5-14 years,0,226998,0.0,Croatia2009,,"62,703,143,057",14872,Generation Z,45.1,15.2
+Cuba,North America,2009,male,75+ years,210,255440,82.21,Cuba2009,,"62,080,000,000",5797,Silent,21.521757,-77.78116700000001
+Cuba,North America,2009,male,55-74 years,318,950445,33.46,Cuba2009,,"62,080,000,000",5797,Silent,21.521757,-77.78116700000001
+Cuba,North America,2009,male,35-54 years,428,1884290,22.71,Cuba2009,,"62,080,000,000",5797,Boomers,21.521757,-77.78116700000001
+Cuba,North America,2009,male,25-34 years,122,726718,16.79,Cuba2009,,"62,080,000,000",5797,Generation X,21.521757,-77.78116700000001
+Cuba,North America,2009,female,75+ years,44,329543,13.35,Cuba2009,,"62,080,000,000",5797,Silent,21.521757,-77.78116700000001
+Cuba,North America,2009,female,55-74 years,131,982121,13.34,Cuba2009,,"62,080,000,000",5797,Silent,21.521757,-77.78116700000001
+Cuba,North America,2009,male,15-24 years,62,822661,7.54,Cuba2009,,"62,080,000,000",5797,Millenials,21.521757,-77.78116700000001
+Cuba,North America,2009,female,35-54 years,123,1877452,6.55,Cuba2009,,"62,080,000,000",5797,Boomers,21.521757,-77.78116700000001
+Cuba,North America,2009,female,25-34 years,23,705886,3.26,Cuba2009,,"62,080,000,000",5797,Generation X,21.521757,-77.78116700000001
+Cuba,North America,2009,female,15-24 years,12,779355,1.54,Cuba2009,,"62,080,000,000",5797,Millenials,21.521757,-77.78116700000001
+Cuba,North America,2009,female,5-14 years,3,675592,0.44,Cuba2009,,"62,080,000,000",5797,Generation Z,21.521757,-77.78116700000001
+Cuba,North America,2009,male,5-14 years,1,718727,0.14,Cuba2009,,"62,080,000,000",5797,Generation Z,21.521757,-77.78116700000001
+Cyprus,Europe,2009,male,75+ years,3,19014,15.78,Cyprus2009,,"25,942,622,951",33816,Silent,35.126413,33.429859
+Cyprus,Europe,2009,male,25-34 years,6,61663,9.73,Cyprus2009,,"25,942,622,951",33816,Generation X,35.126413,33.429859
+Cyprus,Europe,2009,male,15-24 years,5,66107,7.56,Cyprus2009,,"25,942,622,951",33816,Millenials,35.126413,33.429859
+Cyprus,Europe,2009,male,35-54 years,7,105858,6.61,Cyprus2009,,"25,942,622,951",33816,Boomers,35.126413,33.429859
+Cyprus,Europe,2009,male,55-74 years,4,72713,5.5,Cyprus2009,,"25,942,622,951",33816,Silent,35.126413,33.429859
+Cyprus,Europe,2009,female,75+ years,1,25758,3.88,Cyprus2009,,"25,942,622,951",33816,Silent,35.126413,33.429859
+Cyprus,Europe,2009,female,35-54 years,4,116224,3.44,Cyprus2009,,"25,942,622,951",33816,Boomers,35.126413,33.429859
+Cyprus,Europe,2009,female,25-34 years,2,66001,3.03,Cyprus2009,,"25,942,622,951",33816,Generation X,35.126413,33.429859
+Cyprus,Europe,2009,female,15-24 years,0,63385,0.0,Cyprus2009,,"25,942,622,951",33816,Millenials,35.126413,33.429859
+Cyprus,Europe,2009,female,5-14 years,0,45750,0.0,Cyprus2009,,"25,942,622,951",33816,Generation Z,35.126413,33.429859
+Cyprus,Europe,2009,female,55-74 years,0,76382,0.0,Cyprus2009,,"25,942,622,951",33816,Silent,35.126413,33.429859
+Cyprus,Europe,2009,male,5-14 years,0,48319,0.0,Cyprus2009,,"25,942,622,951",33816,Generation Z,35.126413,33.429859
+Czech Republic,Europe,2009,male,75+ years,135,240265,56.19,Czech Republic2009,,"206,179,982,164",20748,Silent,49.817492,15.472961999999999
+Czech Republic,Europe,2009,male,35-54 years,476,1480738,32.15,Czech Republic2009,,"206,179,982,164",20748,Boomers,49.817492,15.472961999999999
+Czech Republic,Europe,2009,male,55-74 years,337,1100133,30.63,Czech Republic2009,,"206,179,982,164",20748,Silent,49.817492,15.472961999999999
+Czech Republic,Europe,2009,male,25-34 years,199,880108,22.61,Czech Republic2009,,"206,179,982,164",20748,Generation X,49.817492,15.472961999999999
+Czech Republic,Europe,2009,male,15-24 years,81,685218,11.82,Czech Republic2009,,"206,179,982,164",20748,Millenials,49.817492,15.472961999999999
+Czech Republic,Europe,2009,female,75+ years,42,450517,9.32,Czech Republic2009,,"206,179,982,164",20748,Silent,49.817492,15.472961999999999
+Czech Republic,Europe,2009,female,55-74 years,78,1265312,6.16,Czech Republic2009,,"206,179,982,164",20748,Silent,49.817492,15.472961999999999
+Czech Republic,Europe,2009,female,35-54 years,79,1428022,5.53,Czech Republic2009,,"206,179,982,164",20748,Boomers,49.817492,15.472961999999999
+Czech Republic,Europe,2009,female,15-24 years,16,646079,2.48,Czech Republic2009,,"206,179,982,164",20748,Millenials,49.817492,15.472961999999999
+Czech Republic,Europe,2009,female,25-34 years,18,827079,2.18,Czech Republic2009,,"206,179,982,164",20748,Generation X,49.817492,15.472961999999999
+Czech Republic,Europe,2009,male,5-14 years,2,479988,0.42,Czech Republic2009,,"206,179,982,164",20748,Generation Z,49.817492,15.472961999999999
+Czech Republic,Europe,2009,female,5-14 years,1,453948,0.22,Czech Republic2009,,"206,179,982,164",20748,Generation Z,49.817492,15.472961999999999
+Denmark,Europe,2009,male,75+ years,64,150153,42.62,Denmark2009,,"321,241,396,034",61863,Silent,56.26392,9.501785
+Denmark,Europe,2009,male,55-74 years,165,604423,27.3,Denmark2009,,"321,241,396,034",61863,Silent,56.26392,9.501785
+Denmark,Europe,2009,male,35-54 years,186,790578,23.53,Denmark2009,,"321,241,396,034",61863,Boomers,56.26392,9.501785
+Denmark,Europe,2009,female,75+ years,32,235213,13.6,Denmark2009,,"321,241,396,034",61863,Silent,56.26392,9.501785
+Denmark,Europe,2009,male,25-34 years,36,335963,10.72,Denmark2009,,"321,241,396,034",61863,Generation X,56.26392,9.501785
+Denmark,Europe,2009,female,55-74 years,52,625986,8.31,Denmark2009,,"321,241,396,034",61863,Silent,56.26392,9.501785
+Denmark,Europe,2009,male,15-24 years,24,340143,7.06,Denmark2009,,"321,241,396,034",61863,Millenials,56.26392,9.501785
+Denmark,Europe,2009,female,35-54 years,43,773415,5.56,Denmark2009,,"321,241,396,034",61863,Boomers,56.26392,9.501785
+Denmark,Europe,2009,female,25-34 years,13,334052,3.89,Denmark2009,,"321,241,396,034",61863,Generation X,56.26392,9.501785
+Denmark,Europe,2009,female,15-24 years,4,324876,1.23,Denmark2009,,"321,241,396,034",61863,Millenials,56.26392,9.501785
+Denmark,Europe,2009,male,5-14 years,2,347259,0.58,Denmark2009,,"321,241,396,034",61863,Generation Z,56.26392,9.501785
+Denmark,Europe,2009,female,5-14 years,1,330729,0.3,Denmark2009,,"321,241,396,034",61863,Generation Z,56.26392,9.501785
+Ecuador,South America,2009,male,25-34 years,179,1161180,15.42,Ecuador2009,,"62,519,686,000",4762,Generation X,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,male,55-74 years,103,683190,15.08,Ecuador2009,,"62,519,686,000",4762,Silent,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,male,15-24 years,214,1419517,15.08,Ecuador2009,,"62,519,686,000",4762,Millenials,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,male,75+ years,20,155307,12.88,Ecuador2009,,"62,519,686,000",4762,Silent,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,male,35-54 years,180,1600987,11.24,Ecuador2009,,"62,519,686,000",4762,Boomers,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,female,15-24 years,100,1380435,7.24,Ecuador2009,,"62,519,686,000",4762,Millenials,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,female,75+ years,9,193481,4.65,Ecuador2009,,"62,519,686,000",4762,Silent,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,female,25-34 years,48,1155088,4.16,Ecuador2009,,"62,519,686,000",4762,Generation X,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,female,35-54 years,48,1636049,2.93,Ecuador2009,,"62,519,686,000",4762,Boomers,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,female,55-74 years,20,734615,2.72,Ecuador2009,,"62,519,686,000",4762,Silent,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,male,5-14 years,23,1533769,1.5,Ecuador2009,,"62,519,686,000",4762,Generation Z,-1.8312389999999998,-78.183406
+Ecuador,South America,2009,female,5-14 years,20,1476543,1.35,Ecuador2009,,"62,519,686,000",4762,Generation Z,-1.8312389999999998,-78.183406
+El Salvador,North America,2009,male,25-34 years,120,400776,29.94,El Salvador2009,,"17,601,616,000",3184,Generation X,13.794185,-88.89653
+El Salvador,North America,2009,male,35-54 years,113,554321,20.39,El Salvador2009,,"17,601,616,000",3184,Boomers,13.794185,-88.89653
+El Salvador,North America,2009,male,75+ years,13,70655,18.4,El Salvador2009,,"17,601,616,000",3184,Silent,13.794185,-88.89653
+El Salvador,North America,2009,male,55-74 years,49,290324,16.88,El Salvador2009,,"17,601,616,000",3184,Silent,13.794185,-88.89653
+El Salvador,North America,2009,male,15-24 years,95,584388,16.26,El Salvador2009,,"17,601,616,000",3184,Millenials,13.794185,-88.89653
+El Salvador,North America,2009,female,15-24 years,55,611290,9.0,El Salvador2009,,"17,601,616,000",3184,Millenials,13.794185,-88.89653
+El Salvador,North America,2009,female,25-34 years,27,484388,5.57,El Salvador2009,,"17,601,616,000",3184,Generation X,13.794185,-88.89653
+El Salvador,North America,2009,female,35-54 years,16,704865,2.27,El Salvador2009,,"17,601,616,000",3184,Boomers,13.794185,-88.89653
+El Salvador,North America,2009,female,75+ years,2,92201,2.17,El Salvador2009,,"17,601,616,000",3184,Silent,13.794185,-88.89653
+El Salvador,North America,2009,female,55-74 years,7,364066,1.92,El Salvador2009,,"17,601,616,000",3184,Silent,13.794185,-88.89653
+El Salvador,North America,2009,female,5-14 years,6,672905,0.89,El Salvador2009,,"17,601,616,000",3184,Generation Z,13.794185,-88.89653
+El Salvador,North America,2009,male,5-14 years,3,698731,0.43,El Salvador2009,,"17,601,616,000",3184,Generation Z,13.794185,-88.89653
+Estonia,Europe,2009,male,55-74 years,66,118960,55.48,Estonia2009,,"19,652,492,637",15609,Silent,58.595271999999994,25.013607
+Estonia,Europe,2009,male,35-54 years,88,179820,48.94,Estonia2009,,"19,652,492,637",15609,Boomers,58.595271999999994,25.013607
+Estonia,Europe,2009,male,75+ years,13,28150,46.18,Estonia2009,,"19,652,492,637",15609,Silent,58.595271999999994,25.013607
+Estonia,Europe,2009,male,25-34 years,30,96260,31.17,Estonia2009,,"19,652,492,637",15609,Generation X,58.595271999999994,25.013607
+Estonia,Europe,2009,male,15-24 years,23,94705,24.29,Estonia2009,,"19,652,492,637",15609,Millenials,58.595271999999994,25.013607
+Estonia,Europe,2009,female,75+ years,16,74300,21.53,Estonia2009,,"19,652,492,637",15609,Silent,58.595271999999994,25.013607
+Estonia,Europe,2009,female,55-74 years,14,171340,8.17,Estonia2009,,"19,652,492,637",15609,Silent,58.595271999999994,25.013607
+Estonia,Europe,2009,female,35-54 years,14,189570,7.39,Estonia2009,,"19,652,492,637",15609,Boomers,58.595271999999994,25.013607
+Estonia,Europe,2009,female,25-34 years,3,91560,3.28,Estonia2009,,"19,652,492,637",15609,Generation X,58.595271999999994,25.013607
+Estonia,Europe,2009,female,15-24 years,2,89195,2.24,Estonia2009,,"19,652,492,637",15609,Millenials,58.595271999999994,25.013607
+Estonia,Europe,2009,female,5-14 years,0,60910,0.0,Estonia2009,,"19,652,492,637",15609,Generation Z,58.595271999999994,25.013607
+Estonia,Europe,2009,male,5-14 years,0,64240,0.0,Estonia2009,,"19,652,492,637",15609,Generation Z,58.595271999999994,25.013607
+Fiji,Oceania,2009,female,75+ years,1,5809,17.21,Fiji2009,,"2,870,624,636",3765,Silent,-16.578193,179.414413
+Fiji,Oceania,2009,male,35-54 years,8,105083,7.61,Fiji2009,,"2,870,624,636",3765,Boomers,-16.578193,179.414413
+Fiji,Oceania,2009,male,25-34 years,5,71729,6.97,Fiji2009,,"2,870,624,636",3765,Generation X,-16.578193,179.414413
+Fiji,Oceania,2009,male,55-74 years,3,43403,6.91,Fiji2009,,"2,870,624,636",3765,Silent,-16.578193,179.414413
+Fiji,Oceania,2009,female,25-34 years,3,68110,4.4,Fiji2009,,"2,870,624,636",3765,Generation X,-16.578193,179.414413
+Fiji,Oceania,2009,male,15-24 years,3,80908,3.71,Fiji2009,,"2,870,624,636",3765,Millenials,-16.578193,179.414413
+Fiji,Oceania,2009,female,15-24 years,2,76305,2.62,Fiji2009,,"2,870,624,636",3765,Millenials,-16.578193,179.414413
+Fiji,Oceania,2009,female,55-74 years,1,44642,2.24,Fiji2009,,"2,870,624,636",3765,Silent,-16.578193,179.414413
+Fiji,Oceania,2009,female,35-54 years,0,101209,0.0,Fiji2009,,"2,870,624,636",3765,Boomers,-16.578193,179.414413
+Fiji,Oceania,2009,female,5-14 years,0,77600,0.0,Fiji2009,,"2,870,624,636",3765,Generation Z,-16.578193,179.414413
+Fiji,Oceania,2009,male,5-14 years,0,83083,0.0,Fiji2009,,"2,870,624,636",3765,Generation Z,-16.578193,179.414413
+Fiji,Oceania,2009,male,75+ years,0,4522,0.0,Fiji2009,,"2,870,624,636",3765,Silent,-16.578193,179.414413
+Finland,Europe,2009,male,35-54 years,293,724700,40.43,Finland2009,,"251,499,027,508",49878,Boomers,61.92411,25.748151
+Finland,Europe,2009,male,75+ years,57,149329,38.17,Finland2009,,"251,499,027,508",49878,Silent,61.92411,25.748151
+Finland,Europe,2009,male,25-34 years,121,348421,34.73,Finland2009,,"251,499,027,508",49878,Generation X,61.92411,25.748151
+Finland,Europe,2009,male,55-74 years,201,604904,33.23,Finland2009,,"251,499,027,508",49878,Silent,61.92411,25.748151
+Finland,Europe,2009,male,15-24 years,89,336510,26.45,Finland2009,,"251,499,027,508",49878,Millenials,61.92411,25.748151
+Finland,Europe,2009,female,35-54 years,100,708103,14.12,Finland2009,,"251,499,027,508",49878,Boomers,61.92411,25.748151
+Finland,Europe,2009,female,55-74 years,84,650862,12.91,Finland2009,,"251,499,027,508",49878,Silent,61.92411,25.748151
+Finland,Europe,2009,female,25-34 years,40,330127,12.12,Finland2009,,"251,499,027,508",49878,Generation X,61.92411,25.748151
+Finland,Europe,2009,female,15-24 years,28,322353,8.69,Finland2009,,"251,499,027,508",49878,Millenials,61.92411,25.748151
+Finland,Europe,2009,female,75+ years,20,273822,7.3,Finland2009,,"251,499,027,508",49878,Silent,61.92411,25.748151
+Finland,Europe,2009,female,5-14 years,1,290188,0.34,Finland2009,,"251,499,027,508",49878,Generation Z,61.92411,25.748151
+Finland,Europe,2009,male,5-14 years,0,302997,0.0,Finland2009,,"251,499,027,508",49878,Generation Z,61.92411,25.748151
+France,Europe,2009,male,75+ years,1351,2035007,66.39,France2009,,"2,690,222,283,968",45775,Silent,46.227638,2.213749
+France,Europe,2009,male,35-54 years,3124,8526689,36.64,France2009,,"2,690,222,283,968",45775,Boomers,46.227638,2.213749
+France,Europe,2009,male,55-74 years,2033,6081994,33.43,France2009,,"2,690,222,283,968",45775,Silent,46.227638,2.213749
+France,Europe,2009,male,25-34 years,827,3838456,21.55,France2009,,"2,690,222,283,968",45775,Generation X,46.227638,2.213749
+France,Europe,2009,female,75+ years,464,3487831,13.3,France2009,,"2,690,222,283,968",45775,Silent,46.227638,2.213749
+France,Europe,2009,female,55-74 years,883,6675905,13.23,France2009,,"2,690,222,283,968",45775,Silent,46.227638,2.213749
+France,Europe,2009,female,35-54 years,1039,8763692,11.86,France2009,,"2,690,222,283,968",45775,Boomers,46.227638,2.213749
+France,Europe,2009,male,15-24 years,404,3953357,10.22,France2009,,"2,690,222,283,968",45775,Millenials,46.227638,2.213749
+France,Europe,2009,female,25-34 years,215,3905999,5.5,France2009,,"2,690,222,283,968",45775,Generation X,46.227638,2.213749
+France,Europe,2009,female,15-24 years,122,3843704,3.17,France2009,,"2,690,222,283,968",45775,Millenials,46.227638,2.213749
+France,Europe,2009,male,5-14 years,26,3922145,0.66,France2009,,"2,690,222,283,968",45775,Generation Z,46.227638,2.213749
+France,Europe,2009,female,5-14 years,11,3735948,0.29,France2009,,"2,690,222,283,968",45775,Generation Z,46.227638,2.213749
+Georgia,Europe,2009,male,75+ years,18,90600,19.87,Georgia2009,,"10,766,809,099",2589,Silent,42.315407,43.356891999999995
+Georgia,Europe,2009,male,55-74 years,36,343050,10.49,Georgia2009,,"10,766,809,099",2589,Silent,42.315407,43.356891999999995
+Georgia,Europe,2009,male,35-54 years,48,579150,8.29,Georgia2009,,"10,766,809,099",2589,Boomers,42.315407,43.356891999999995
+Georgia,Europe,2009,male,25-34 years,24,324500,7.4,Georgia2009,,"10,766,809,099",2589,Generation X,42.315407,43.356891999999995
+Georgia,Europe,2009,female,75+ years,10,172650,5.79,Georgia2009,,"10,766,809,099",2589,Silent,42.315407,43.356891999999995
+Georgia,Europe,2009,male,15-24 years,20,360500,5.55,Georgia2009,,"10,766,809,099",2589,Millenials,42.315407,43.356891999999995
+Georgia,Europe,2009,female,55-74 years,15,456000,3.29,Georgia2009,,"10,766,809,099",2589,Silent,42.315407,43.356891999999995
+Georgia,Europe,2009,female,15-24 years,4,350000,1.14,Georgia2009,,"10,766,809,099",2589,Millenials,42.315407,43.356891999999995
+Georgia,Europe,2009,male,5-14 years,3,262650,1.14,Georgia2009,,"10,766,809,099",2589,Generation Z,42.315407,43.356891999999995
+Georgia,Europe,2009,female,35-54 years,7,652950,1.07,Georgia2009,,"10,766,809,099",2589,Boomers,42.315407,43.356891999999995
+Georgia,Europe,2009,female,25-34 years,2,328450,0.61,Georgia2009,,"10,766,809,099",2589,Generation X,42.315407,43.356891999999995
+Georgia,Europe,2009,female,5-14 years,1,238250,0.42,Georgia2009,,"10,766,809,099",2589,Generation Z,42.315407,43.356891999999995
+Germany,Europe,2009,male,75+ years,1209,2599960,46.5,Germany2009,,"3,418,005,001,389",43570,Silent,51.165690999999995,10.451526
+Germany,Europe,2009,male,55-74 years,2277,9307706,24.46,Germany2009,,"3,418,005,001,389",43570,Silent,51.165690999999995,10.451526
+Germany,Europe,2009,male,35-54 years,2628,12872657,20.42,Germany2009,,"3,418,005,001,389",43570,Boomers,51.165690999999995,10.451526
+Germany,Europe,2009,male,25-34 years,637,4909814,12.97,Germany2009,,"3,418,005,001,389",43570,Generation X,51.165690999999995,10.451526
+Germany,Europe,2009,female,75+ years,520,4569198,11.38,Germany2009,,"3,418,005,001,389",43570,Silent,51.165690999999995,10.451526
+Germany,Europe,2009,male,15-24 years,443,4760066,9.31,Germany2009,,"3,418,005,001,389",43570,Millenials,51.165690999999995,10.451526
+Germany,Europe,2009,female,55-74 years,789,9995593,7.89,Germany2009,,"3,418,005,001,389",43570,Silent,51.165690999999995,10.451526
+Germany,Europe,2009,female,35-54 years,788,12445519,6.33,Germany2009,,"3,418,005,001,389",43570,Boomers,51.165690999999995,10.451526
+Germany,Europe,2009,female,25-34 years,146,4784538,3.05,Germany2009,,"3,418,005,001,389",43570,Generation X,51.165690999999995,10.451526
+Germany,Europe,2009,female,15-24 years,121,4552176,2.66,Germany2009,,"3,418,005,001,389",43570,Millenials,51.165690999999995,10.451526
+Germany,Europe,2009,male,5-14 years,12,3925018,0.31,Germany2009,,"3,418,005,001,389",43570,Generation Z,51.165690999999995,10.451526
+Germany,Europe,2009,female,5-14 years,9,3726357,0.24,Germany2009,,"3,418,005,001,389",43570,Generation Z,51.165690999999995,10.451526
+Greece,Europe,2009,male,75+ years,49,434778,11.27,Greece2009,,"330,000,252,153",30785,Silent,39.074208,21.824312
+Greece,Europe,2009,male,35-54 years,130,1670385,7.78,Greece2009,,"330,000,252,153",30785,Boomers,39.074208,21.824312
+Greece,Europe,2009,male,55-74 years,81,1157880,7.0,Greece2009,,"330,000,252,153",30785,Silent,39.074208,21.824312
+Greece,Europe,2009,male,25-34 years,56,863841,6.48,Greece2009,,"330,000,252,153",30785,Generation X,39.074208,21.824312
+Greece,Europe,2009,male,15-24 years,17,626013,2.72,Greece2009,,"330,000,252,153",30785,Millenials,39.074208,21.824312
+Greece,Europe,2009,female,75+ years,9,574168,1.57,Greece2009,,"330,000,252,153",30785,Silent,39.074208,21.824312
+Greece,Europe,2009,female,25-34 years,11,796656,1.38,Greece2009,,"330,000,252,153",30785,Generation X,39.074208,21.824312
+Greece,Europe,2009,female,55-74 years,16,1307683,1.22,Greece2009,,"330,000,252,153",30785,Silent,39.074208,21.824312
+Greece,Europe,2009,female,35-54 years,20,1650941,1.21,Greece2009,,"330,000,252,153",30785,Boomers,39.074208,21.824312
+Greece,Europe,2009,female,15-24 years,2,581847,0.34,Greece2009,,"330,000,252,153",30785,Millenials,39.074208,21.824312
+Greece,Europe,2009,female,5-14 years,0,512001,0.0,Greece2009,,"330,000,252,153",30785,Generation Z,39.074208,21.824312
+Greece,Europe,2009,male,5-14 years,0,543425,0.0,Greece2009,,"330,000,252,153",30785,Generation Z,39.074208,21.824312
+Guatemala,North America,2009,male,75+ years,12,108534,11.06,Guatemala2009,,"37,733,994,976",3053,Silent,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,male,35-54 years,109,1019866,10.69,Guatemala2009,,"37,733,994,976",3053,Boomers,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,male,55-74 years,38,448004,8.48,Guatemala2009,,"37,733,994,976",3053,Silent,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,male,25-34 years,82,1033623,7.93,Guatemala2009,,"37,733,994,976",3053,Generation X,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,male,15-24 years,118,1500901,7.86,Guatemala2009,,"37,733,994,976",3053,Millenials,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,female,15-24 years,69,1490780,4.63,Guatemala2009,,"37,733,994,976",3053,Millenials,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,female,25-34 years,38,1112873,3.41,Guatemala2009,,"37,733,994,976",3053,Generation X,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,female,35-54 years,25,1223531,2.04,Guatemala2009,,"37,733,994,976",3053,Boomers,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,female,55-74 years,3,522645,0.57,Guatemala2009,,"37,733,994,976",3053,Silent,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,female,5-14 years,10,1847847,0.54,Guatemala2009,,"37,733,994,976",3053,Generation Z,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,male,5-14 years,7,1919024,0.36,Guatemala2009,,"37,733,994,976",3053,Generation Z,15.783470999999999,-90.23075899999999
+Guatemala,North America,2009,female,75+ years,0,132317,0.0,Guatemala2009,,"37,733,994,976",3053,Silent,15.783470999999999,-90.23075899999999
+Guyana,South America,2009,male,35-54 years,51,88163,57.85,Guyana2009,,"2,061,323,854",3076,Boomers,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,male,25-34 years,26,53875,48.26,Guyana2009,,"2,061,323,854",3076,Generation X,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,male,55-74 years,15,31720,47.29,Guyana2009,,"2,061,323,854",3076,Silent,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,male,75+ years,2,4834,41.37,Guyana2009,,"2,061,323,854",3076,Silent,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,male,15-24 years,14,67457,20.75,Guyana2009,,"2,061,323,854",3076,Millenials,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,female,15-24 years,14,67774,20.66,Guyana2009,,"2,061,323,854",3076,Millenials,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,female,35-54 years,15,86706,17.3,Guyana2009,,"2,061,323,854",3076,Boomers,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,female,75+ years,1,6229,16.05,Guyana2009,,"2,061,323,854",3076,Silent,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,female,25-34 years,7,56144,12.47,Guyana2009,,"2,061,323,854",3076,Generation X,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,female,55-74 years,4,34707,11.53,Guyana2009,,"2,061,323,854",3076,Silent,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,female,5-14 years,6,84273,7.12,Guyana2009,,"2,061,323,854",3076,Generation Z,4.860416000000001,-58.93018000000001
+Guyana,South America,2009,male,5-14 years,1,88273,1.13,Guyana2009,,"2,061,323,854",3076,Generation Z,4.860416000000001,-58.93018000000001
+Hungary,Europe,2009,male,75+ years,214,236367,90.54,Hungary2009,,"130,593,960,612",13697,Silent,47.162494,19.503304
+Hungary,Europe,2009,male,55-74 years,612,961155,63.67,Hungary2009,,"130,593,960,612",13697,Silent,47.162494,19.503304
+Hungary,Europe,2009,male,35-54 years,773,1356600,56.98,Hungary2009,,"130,593,960,612",13697,Boomers,47.162494,19.503304
+Hungary,Europe,2009,male,25-34 years,188,802616,23.42,Hungary2009,,"130,593,960,612",13697,Generation X,47.162494,19.503304
+Hungary,Europe,2009,female,75+ years,91,493507,18.44,Hungary2009,,"130,593,960,612",13697,Silent,47.162494,19.503304
+Hungary,Europe,2009,male,15-24 years,111,641509,17.3,Hungary2009,,"130,593,960,612",13697,Millenials,47.162494,19.503304
+Hungary,Europe,2009,female,55-74 years,212,1270295,16.69,Hungary2009,,"130,593,960,612",13697,Silent,47.162494,19.503304
+Hungary,Europe,2009,female,35-54 years,191,1390659,13.73,Hungary2009,,"130,593,960,612",13697,Boomers,47.162494,19.503304
+Hungary,Europe,2009,female,25-34 years,42,770068,5.45,Hungary2009,,"130,593,960,612",13697,Generation X,47.162494,19.503304
+Hungary,Europe,2009,female,15-24 years,19,615144,3.09,Hungary2009,,"130,593,960,612",13697,Millenials,47.162494,19.503304
+Hungary,Europe,2009,female,5-14 years,4,485140,0.82,Hungary2009,,"130,593,960,612",13697,Generation Z,47.162494,19.503304
+Hungary,Europe,2009,male,5-14 years,3,511177,0.59,Hungary2009,,"130,593,960,612",13697,Generation Z,47.162494,19.503304
+Iceland,Europe,2009,male,55-74 years,10,26267,38.07,Iceland2009,,"12,944,114,736",43700,Silent,64.96305100000001,-19.020835
+Iceland,Europe,2009,male,25-34 years,6,24715,24.28,Iceland2009,,"12,944,114,736",43700,Generation X,64.96305100000001,-19.020835
+Iceland,Europe,2009,male,35-54 years,10,44805,22.32,Iceland2009,,"12,944,114,736",43700,Boomers,64.96305100000001,-19.020835
+Iceland,Europe,2009,female,35-54 years,6,42732,14.04,Iceland2009,,"12,944,114,736",43700,Boomers,64.96305100000001,-19.020835
+Iceland,Europe,2009,male,75+ years,1,7788,12.84,Iceland2009,,"12,944,114,736",43700,Silent,64.96305100000001,-19.020835
+Iceland,Europe,2009,male,15-24 years,2,23991,8.34,Iceland2009,,"12,944,114,736",43700,Millenials,64.96305100000001,-19.020835
+Iceland,Europe,2009,female,55-74 years,1,26010,3.84,Iceland2009,,"12,944,114,736",43700,Silent,64.96305100000001,-19.020835
+Iceland,Europe,2009,female,15-24 years,0,22973,0.0,Iceland2009,,"12,944,114,736",43700,Millenials,64.96305100000001,-19.020835
+Iceland,Europe,2009,female,25-34 years,0,22959,0.0,Iceland2009,,"12,944,114,736",43700,Generation X,64.96305100000001,-19.020835
+Iceland,Europe,2009,female,5-14 years,0,21382,0.0,Iceland2009,,"12,944,114,736",43700,Generation Z,64.96305100000001,-19.020835
+Iceland,Europe,2009,female,75+ years,0,10439,0.0,Iceland2009,,"12,944,114,736",43700,Silent,64.96305100000001,-19.020835
+Iceland,Europe,2009,male,5-14 years,0,22143,0.0,Iceland2009,,"12,944,114,736",43700,Generation Z,64.96305100000001,-19.020835
+Ireland,Europe,2009,male,25-34 years,112,390586,28.67,Ireland2009,,"236,311,336,482",57390,Generation X,53.41291,-8.243889999999999
+Ireland,Europe,2009,male,35-54 years,158,611460,25.84,Ireland2009,,"236,311,336,482",57390,Boomers,53.41291,-8.243889999999999
+Ireland,Europe,2009,male,15-24 years,70,290474,24.1,Ireland2009,,"236,311,336,482",57390,Millenials,53.41291,-8.243889999999999
+Ireland,Europe,2009,male,55-74 years,74,358381,20.65,Ireland2009,,"236,311,336,482",57390,Silent,53.41291,-8.243889999999999
+Ireland,Europe,2009,female,25-34 years,27,394145,6.85,Ireland2009,,"236,311,336,482",57390,Generation X,53.41291,-8.243889999999999
+Ireland,Europe,2009,female,15-24 years,20,292951,6.83,Ireland2009,,"236,311,336,482",57390,Millenials,53.41291,-8.243889999999999
+Ireland,Europe,2009,female,55-74 years,23,362941,6.34,Ireland2009,,"236,311,336,482",57390,Silent,53.41291,-8.243889999999999
+Ireland,Europe,2009,male,75+ years,5,86239,5.8,Ireland2009,,"236,311,336,482",57390,Silent,53.41291,-8.243889999999999
+Ireland,Europe,2009,female,35-54 years,33,604133,5.46,Ireland2009,,"236,311,336,482",57390,Boomers,53.41291,-8.243889999999999
+Ireland,Europe,2009,male,5-14 years,3,305241,0.98,Ireland2009,,"236,311,336,482",57390,Generation Z,53.41291,-8.243889999999999
+Ireland,Europe,2009,female,75+ years,1,130243,0.77,Ireland2009,,"236,311,336,482",57390,Silent,53.41291,-8.243889999999999
+Ireland,Europe,2009,female,5-14 years,1,290873,0.34,Ireland2009,,"236,311,336,482",57390,Generation Z,53.41291,-8.243889999999999
+Israel,Asia,2009,male,75+ years,23,141368,16.27,Israel2009,,"207,419,370,241",30812,Silent,31.046051000000002,34.851612
+Israel,Asia,2009,male,55-74 years,77,499108,15.43,Israel2009,,"207,419,370,241",30812,Silent,31.046051000000002,34.851612
+Israel,Asia,2009,male,25-34 years,67,557283,12.02,Israel2009,,"207,419,370,241",30812,Generation X,31.046051000000002,34.851612
+Israel,Asia,2009,male,35-54 years,91,836965,10.87,Israel2009,,"207,419,370,241",30812,Boomers,31.046051000000002,34.851612
+Israel,Asia,2009,male,15-24 years,48,597179,8.04,Israel2009,,"207,419,370,241",30812,Millenials,31.046051000000002,34.851612
+Israel,Asia,2009,female,55-74 years,22,562448,3.91,Israel2009,,"207,419,370,241",30812,Silent,31.046051000000002,34.851612
+Israel,Asia,2009,female,75+ years,8,208438,3.84,Israel2009,,"207,419,370,241",30812,Silent,31.046051000000002,34.851612
+Israel,Asia,2009,female,35-54 years,32,866442,3.69,Israel2009,,"207,419,370,241",30812,Boomers,31.046051000000002,34.851612
+Israel,Asia,2009,female,25-34 years,18,555764,3.24,Israel2009,,"207,419,370,241",30812,Generation X,31.046051000000002,34.851612
+Israel,Asia,2009,female,15-24 years,13,573738,2.27,Israel2009,,"207,419,370,241",30812,Millenials,31.046051000000002,34.851612
+Israel,Asia,2009,male,5-14 years,4,683070,0.59,Israel2009,,"207,419,370,241",30812,Generation Z,31.046051000000002,34.851612
+Israel,Asia,2009,female,5-14 years,1,650032,0.15,Israel2009,,"207,419,370,241",30812,Generation Z,31.046051000000002,34.851612
+Italy,Europe,2009,male,75+ years,615,2229662,27.58,Italy2009,,"2,185,160,183,384",38101,Silent,41.87194,12.56738
+Italy,Europe,2009,male,55-74 years,938,6434262,14.58,Italy2009,,"2,185,160,183,384",38101,Silent,41.87194,12.56738
+Italy,Europe,2009,male,35-54 years,1058,9147783,11.57,Italy2009,,"2,185,160,183,384",38101,Boomers,41.87194,12.56738
+Italy,Europe,2009,male,25-34 years,332,3939821,8.43,Italy2009,,"2,185,160,183,384",38101,Generation X,41.87194,12.56738
+Italy,Europe,2009,male,15-24 years,144,3121458,4.61,Italy2009,,"2,185,160,183,384",38101,Millenials,41.87194,12.56738
+Italy,Europe,2009,female,55-74 years,289,7103819,4.07,Italy2009,,"2,185,160,183,384",38101,Silent,41.87194,12.56738
+Italy,Europe,2009,female,75+ years,149,3710834,4.02,Italy2009,,"2,185,160,183,384",38101,Silent,41.87194,12.56738
+Italy,Europe,2009,female,35-54 years,329,9209165,3.57,Italy2009,,"2,185,160,183,384",38101,Boomers,41.87194,12.56738
+Italy,Europe,2009,female,25-34 years,70,3872976,1.81,Italy2009,,"2,185,160,183,384",38101,Generation X,41.87194,12.56738
+Italy,Europe,2009,female,15-24 years,42,2969603,1.41,Italy2009,,"2,185,160,183,384",38101,Millenials,41.87194,12.56738
+Italy,Europe,2009,male,5-14 years,6,2886464,0.21,Italy2009,,"2,185,160,183,384",38101,Generation Z,41.87194,12.56738
+Italy,Europe,2009,female,5-14 years,2,2725983,0.07,Italy2009,,"2,185,160,183,384",38101,Generation Z,41.87194,12.56738
+Jamaica,North America,2009,male,75+ years,3,47854,6.27,Jamaica2009,,"12,038,829,246",4686,Silent,18.109581,-77.297508
+Jamaica,North America,2009,male,25-34 years,9,199372,4.51,Jamaica2009,,"12,038,829,246",4686,Generation X,18.109581,-77.297508
+Jamaica,North America,2009,male,55-74 years,6,155268,3.86,Jamaica2009,,"12,038,829,246",4686,Silent,18.109581,-77.297508
+Jamaica,North America,2009,male,35-54 years,9,324231,2.78,Jamaica2009,,"12,038,829,246",4686,Boomers,18.109581,-77.297508
+Jamaica,North America,2009,male,15-24 years,5,268270,1.86,Jamaica2009,,"12,038,829,246",4686,Millenials,18.109581,-77.297508
+Jamaica,North America,2009,female,55-74 years,1,159111,0.63,Jamaica2009,,"12,038,829,246",4686,Silent,18.109581,-77.297508
+Jamaica,North America,2009,female,25-34 years,1,211928,0.47,Jamaica2009,,"12,038,829,246",4686,Generation X,18.109581,-77.297508
+Jamaica,North America,2009,female,15-24 years,1,257363,0.39,Jamaica2009,,"12,038,829,246",4686,Millenials,18.109581,-77.297508
+Jamaica,North America,2009,male,5-14 years,1,276734,0.36,Jamaica2009,,"12,038,829,246",4686,Generation Z,18.109581,-77.297508
+Jamaica,North America,2009,female,35-54 years,0,343173,0.0,Jamaica2009,,"12,038,829,246",4686,Boomers,18.109581,-77.297508
+Jamaica,North America,2009,female,5-14 years,0,264297,0.0,Jamaica2009,,"12,038,829,246",4686,Generation Z,18.109581,-77.297508
+Jamaica,North America,2009,female,75+ years,0,61282,0.0,Jamaica2009,,"12,038,829,246",4686,Silent,18.109581,-77.297508
+Japan,Asia,2009,male,55-74 years,7983,16224000,49.2,Japan2009,,"5,231,382,674,594",43415,Silent,36.204824,138.252924
+Japan,Asia,2009,male,35-54 years,7799,16796000,46.43,Japan2009,,"5,231,382,674,594",43415,Boomers,36.204824,138.252924
+Japan,Asia,2009,male,75+ years,2216,5174000,42.83,Japan2009,,"5,231,382,674,594",43415,Silent,36.204824,138.252924
+Japan,Asia,2009,male,25-34 years,2657,7987000,33.27,Japan2009,,"5,231,382,674,594",43415,Generation X,36.204824,138.252924
+Japan,Asia,2009,male,15-24 years,1326,6514000,20.36,Japan2009,,"5,231,382,674,594",43415,Millenials,36.204824,138.252924
+Japan,Asia,2009,female,75+ years,1649,8488000,19.43,Japan2009,,"5,231,382,674,594",43415,Silent,36.204824,138.252924
+Japan,Asia,2009,female,55-74 years,2820,17413000,16.19,Japan2009,,"5,231,382,674,594",43415,Silent,36.204824,138.252924
+Japan,Asia,2009,female,25-34 years,1085,7679000,14.13,Japan2009,,"5,231,382,674,594",43415,Generation X,36.204824,138.252924
+Japan,Asia,2009,female,35-54 years,2328,16517000,14.09,Japan2009,,"5,231,382,674,594",43415,Boomers,36.204824,138.252924
+Japan,Asia,2009,female,15-24 years,605,6163000,9.82,Japan2009,,"5,231,382,674,594",43415,Millenials,36.204824,138.252924
+Japan,Asia,2009,male,5-14 years,34,5914000,0.57,Japan2009,,"5,231,382,674,594",43415,Generation Z,36.204824,138.252924
+Japan,Asia,2009,female,5-14 years,21,5627000,0.37,Japan2009,,"5,231,382,674,594",43415,Generation Z,36.204824,138.252924
+Kazakhstan,Asia,2009,male,25-34 years,848,1263819,67.1,Kazakhstan2009,,"115,308,661,143",8024,Generation X,48.019573,66.923684
+Kazakhstan,Asia,2009,male,35-54 years,1181,1980466,59.63,Kazakhstan2009,,"115,308,661,143",8024,Boomers,48.019573,66.923684
+Kazakhstan,Asia,2009,male,75+ years,60,116533,51.49,Kazakhstan2009,,"115,308,661,143",8024,Silent,48.019573,66.923684
+Kazakhstan,Asia,2009,male,55-74 years,380,792505,47.95,Kazakhstan2009,,"115,308,661,143",8024,Silent,48.019573,66.923684
+Kazakhstan,Asia,2009,male,15-24 years,608,1533027,39.66,Kazakhstan2009,,"115,308,661,143",8024,Millenials,48.019573,66.923684
+Kazakhstan,Asia,2009,female,75+ years,42,277759,15.12,Kazakhstan2009,,"115,308,661,143",8024,Silent,48.019573,66.923684
+Kazakhstan,Asia,2009,female,15-24 years,214,1488994,14.37,Kazakhstan2009,,"115,308,661,143",8024,Millenials,48.019573,66.923684
+Kazakhstan,Asia,2009,female,25-34 years,145,1269302,11.42,Kazakhstan2009,,"115,308,661,143",8024,Generation X,48.019573,66.923684
+Kazakhstan,Asia,2009,female,35-54 years,192,2191360,8.76,Kazakhstan2009,,"115,308,661,143",8024,Boomers,48.019573,66.923684
+Kazakhstan,Asia,2009,female,55-74 years,99,1150346,8.61,Kazakhstan2009,,"115,308,661,143",8024,Silent,48.019573,66.923684
+Kazakhstan,Asia,2009,male,5-14 years,43,1179629,3.65,Kazakhstan2009,,"115,308,661,143",8024,Generation Z,48.019573,66.923684
+Kazakhstan,Asia,2009,female,5-14 years,26,1126895,2.31,Kazakhstan2009,,"115,308,661,143",8024,Generation Z,48.019573,66.923684
+Kuwait,Asia,2009,female,25-34 years,11,309613,3.55,Kuwait2009,,"105,899,930,507",33453,Generation X,29.311659999999996,47.481766
+Kuwait,Asia,2009,male,35-54 years,22,747742,2.94,Kuwait2009,,"105,899,930,507",33453,Boomers,29.311659999999996,47.481766
+Kuwait,Asia,2009,male,25-34 years,14,635172,2.2,Kuwait2009,,"105,899,930,507",33453,Generation X,29.311659999999996,47.481766
+Kuwait,Asia,2009,female,35-54 years,6,342583,1.75,Kuwait2009,,"105,899,930,507",33453,Boomers,29.311659999999996,47.481766
+Kuwait,Asia,2009,male,15-24 years,4,262196,1.53,Kuwait2009,,"105,899,930,507",33453,Millenials,29.311659999999996,47.481766
+Kuwait,Asia,2009,female,55-74 years,1,68187,1.47,Kuwait2009,,"105,899,930,507",33453,Silent,29.311659999999996,47.481766
+Kuwait,Asia,2009,female,15-24 years,3,219634,1.37,Kuwait2009,,"105,899,930,507",33453,Millenials,29.311659999999996,47.481766
+Kuwait,Asia,2009,female,5-14 years,0,219779,0.0,Kuwait2009,,"105,899,930,507",33453,Generation Z,29.311659999999996,47.481766
+Kuwait,Asia,2009,female,75+ years,0,8255,0.0,Kuwait2009,,"105,899,930,507",33453,Silent,29.311659999999996,47.481766
+Kuwait,Asia,2009,male,5-14 years,0,231825,0.0,Kuwait2009,,"105,899,930,507",33453,Generation Z,29.311659999999996,47.481766
+Kuwait,Asia,2009,male,55-74 years,0,113405,0.0,Kuwait2009,,"105,899,930,507",33453,Silent,29.311659999999996,47.481766
+Kuwait,Asia,2009,male,75+ years,0,7263,0.0,Kuwait2009,,"105,899,930,507",33453,Silent,29.311659999999996,47.481766
+Kyrgyzstan,Asia,2009,male,25-34 years,108,419968,25.72,Kyrgyzstan2009,,"4,690,062,255",977,Generation X,41.20438,74.766098
+Kyrgyzstan,Asia,2009,male,35-54 years,136,590398,23.04,Kyrgyzstan2009,,"4,690,062,255",977,Boomers,41.20438,74.766098
+Kyrgyzstan,Asia,2009,male,55-74 years,26,182750,14.23,Kyrgyzstan2009,,"4,690,062,255",977,Silent,41.20438,74.766098
+Kyrgyzstan,Asia,2009,male,15-24 years,80,598601,13.36,Kyrgyzstan2009,,"4,690,062,255",977,Millenials,41.20438,74.766098
+Kyrgyzstan,Asia,2009,male,75+ years,4,36444,10.98,Kyrgyzstan2009,,"4,690,062,255",977,Silent,41.20438,74.766098
+Kyrgyzstan,Asia,2009,female,15-24 years,37,591310,6.26,Kyrgyzstan2009,,"4,690,062,255",977,Millenials,41.20438,74.766098
+Kyrgyzstan,Asia,2009,female,25-34 years,21,414721,5.06,Kyrgyzstan2009,,"4,690,062,255",977,Generation X,41.20438,74.766098
+Kyrgyzstan,Asia,2009,female,75+ years,3,63956,4.69,Kyrgyzstan2009,,"4,690,062,255",977,Silent,41.20438,74.766098
+Kyrgyzstan,Asia,2009,female,55-74 years,10,232290,4.3,Kyrgyzstan2009,,"4,690,062,255",977,Silent,41.20438,74.766098
+Kyrgyzstan,Asia,2009,female,35-54 years,21,627216,3.35,Kyrgyzstan2009,,"4,690,062,255",977,Boomers,41.20438,74.766098
+Kyrgyzstan,Asia,2009,male,5-14 years,8,531076,1.51,Kyrgyzstan2009,,"4,690,062,255",977,Generation Z,41.20438,74.766098
+Kyrgyzstan,Asia,2009,female,5-14 years,4,511404,0.78,Kyrgyzstan2009,,"4,690,062,255",977,Generation Z,41.20438,74.766098
+Latvia,Europe,2009,male,75+ years,30,42997,69.77,Latvia2009,,"26,169,854,045",12890,Silent,56.879635,24.603189
+Latvia,Europe,2009,male,55-74 years,114,187062,60.94,Latvia2009,,"26,169,854,045",12890,Silent,56.879635,24.603189
+Latvia,Europe,2009,male,35-54 years,167,288988,57.79,Latvia2009,,"26,169,854,045",12890,Boomers,56.879635,24.603189
+Latvia,Europe,2009,male,25-34 years,67,149365,44.86,Latvia2009,,"26,169,854,045",12890,Generation X,56.879635,24.603189
+Latvia,Europe,2009,male,15-24 years,38,158564,23.97,Latvia2009,,"26,169,854,045",12890,Millenials,56.879635,24.603189
+Latvia,Europe,2009,female,75+ years,26,119092,21.83,Latvia2009,,"26,169,854,045",12890,Silent,56.879635,24.603189
+Latvia,Europe,2009,female,55-74 years,30,281813,10.65,Latvia2009,,"26,169,854,045",12890,Silent,56.879635,24.603189
+Latvia,Europe,2009,female,35-54 years,33,313995,10.51,Latvia2009,,"26,169,854,045",12890,Boomers,56.879635,24.603189
+Latvia,Europe,2009,female,25-34 years,8,145144,5.51,Latvia2009,,"26,169,854,045",12890,Generation X,56.879635,24.603189
+Latvia,Europe,2009,female,15-24 years,3,152210,1.97,Latvia2009,,"26,169,854,045",12890,Millenials,56.879635,24.603189
+Latvia,Europe,2009,female,5-14 years,0,93081,0.0,Latvia2009,,"26,169,854,045",12890,Generation Z,56.879635,24.603189
+Latvia,Europe,2009,male,5-14 years,0,98005,0.0,Latvia2009,,"26,169,854,045",12890,Generation Z,56.879635,24.603189
+Lithuania,Europe,2009,male,35-54 years,428,440281,97.21,Lithuania2009,,"37,440,673,478",12412,Boomers,55.169438,23.881275
+Lithuania,Europe,2009,male,55-74 years,239,263507,90.7,Lithuania2009,,"37,440,673,478",12412,Silent,55.169438,23.881275
+Lithuania,Europe,2009,male,75+ years,57,71090,80.18,Lithuania2009,,"37,440,673,478",12412,Silent,55.169438,23.881275
+Lithuania,Europe,2009,male,25-34 years,116,205749,56.38,Lithuania2009,,"37,440,673,478",12412,Generation X,55.169438,23.881275
+Lithuania,Europe,2009,male,15-24 years,109,237032,45.99,Lithuania2009,,"37,440,673,478",12412,Millenials,55.169438,23.881275
+Lithuania,Europe,2009,female,75+ years,40,172277,23.22,Lithuania2009,,"37,440,673,478",12412,Silent,55.169438,23.881275
+Lithuania,Europe,2009,female,35-54 years,65,480247,13.53,Lithuania2009,,"37,440,673,478",12412,Boomers,55.169438,23.881275
+Lithuania,Europe,2009,female,55-74 years,48,381948,12.57,Lithuania2009,,"37,440,673,478",12412,Silent,55.169438,23.881275
+Lithuania,Europe,2009,female,25-34 years,15,205781,7.29,Lithuania2009,,"37,440,673,478",12412,Generation X,55.169438,23.881275
+Lithuania,Europe,2009,female,15-24 years,16,229147,6.98,Lithuania2009,,"37,440,673,478",12412,Millenials,55.169438,23.881275
+Lithuania,Europe,2009,male,5-14 years,3,169250,1.77,Lithuania2009,,"37,440,673,478",12412,Generation Z,55.169438,23.881275
+Lithuania,Europe,2009,female,5-14 years,2,160188,1.25,Lithuania2009,,"37,440,673,478",12412,Generation Z,55.169438,23.881275
+Luxembourg,Europe,2009,male,75+ years,3,12114,24.76,Luxembourg2009,,"51,370,543,206",109483,Silent,49.815273,6.129583
+Luxembourg,Europe,2009,male,55-74 years,10,44418,22.51,Luxembourg2009,,"51,370,543,206",109483,Silent,49.815273,6.129583
+Luxembourg,Europe,2009,male,35-54 years,16,79077,20.23,Luxembourg2009,,"51,370,543,206",109483,Boomers,49.815273,6.129583
+Luxembourg,Europe,2009,male,25-34 years,6,35713,16.8,Luxembourg2009,,"51,370,543,206",109483,Generation X,49.815273,6.129583
+Luxembourg,Europe,2009,female,35-54 years,7,76687,9.13,Luxembourg2009,,"51,370,543,206",109483,Boomers,49.815273,6.129583
+Luxembourg,Europe,2009,female,55-74 years,3,45716,6.56,Luxembourg2009,,"51,370,543,206",109483,Silent,49.815273,6.129583
+Luxembourg,Europe,2009,female,75+ years,1,20687,4.83,Luxembourg2009,,"51,370,543,206",109483,Silent,49.815273,6.129583
+Luxembourg,Europe,2009,male,15-24 years,1,30148,3.32,Luxembourg2009,,"51,370,543,206",109483,Millenials,49.815273,6.129583
+Luxembourg,Europe,2009,female,25-34 years,1,35557,2.81,Luxembourg2009,,"51,370,543,206",109483,Generation X,49.815273,6.129583
+Luxembourg,Europe,2009,female,15-24 years,0,28821,0.0,Luxembourg2009,,"51,370,543,206",109483,Millenials,49.815273,6.129583
+Luxembourg,Europe,2009,female,5-14 years,0,29292,0.0,Luxembourg2009,,"51,370,543,206",109483,Generation Z,49.815273,6.129583
+Luxembourg,Europe,2009,male,5-14 years,0,30979,0.0,Luxembourg2009,,"51,370,543,206",109483,Generation Z,49.815273,6.129583
+Malta,Europe,2009,male,25-34 years,9,31502,28.57,Malta2009,,"8,528,202,278",21695,Generation X,35.937496,14.375416
+Malta,Europe,2009,male,75+ years,2,9840,20.33,Malta2009,,"8,528,202,278",21695,Silent,35.937496,14.375416
+Malta,Europe,2009,male,55-74 years,9,45352,19.84,Malta2009,,"8,528,202,278",21695,Silent,35.937496,14.375416
+Malta,Europe,2009,male,35-54 years,10,56425,17.72,Malta2009,,"8,528,202,278",21695,Boomers,35.937496,14.375416
+Malta,Europe,2009,male,15-24 years,3,29462,10.18,Malta2009,,"8,528,202,278",21695,Millenials,35.937496,14.375416
+Malta,Europe,2009,female,25-34 years,2,29150,6.86,Malta2009,,"8,528,202,278",21695,Generation X,35.937496,14.375416
+Malta,Europe,2009,female,15-24 years,1,27616,3.62,Malta2009,,"8,528,202,278",21695,Millenials,35.937496,14.375416
+Malta,Europe,2009,female,35-54 years,0,54933,0.0,Malta2009,,"8,528,202,278",21695,Boomers,35.937496,14.375416
+Malta,Europe,2009,female,5-14 years,0,21609,0.0,Malta2009,,"8,528,202,278",21695,Generation Z,35.937496,14.375416
+Malta,Europe,2009,female,55-74 years,0,48486,0.0,Malta2009,,"8,528,202,278",21695,Silent,35.937496,14.375416
+Malta,Europe,2009,female,75+ years,0,15983,0.0,Malta2009,,"8,528,202,278",21695,Silent,35.937496,14.375416
+Malta,Europe,2009,male,5-14 years,0,22744,0.0,Malta2009,,"8,528,202,278",21695,Generation Z,35.937496,14.375416
+Mauritius,Africa,2009,male,35-54 years,46,179965,25.56,Mauritius2009,,"9,128,843,109",7873,Boomers,-20.348404000000002,57.552152
+Mauritius,Africa,2009,male,25-34 years,20,99119,20.18,Mauritius2009,,"9,128,843,109",7873,Generation X,-20.348404000000002,57.552152
+Mauritius,Africa,2009,male,15-24 years,16,99793,16.03,Mauritius2009,,"9,128,843,109",7873,Millenials,-20.348404000000002,57.552152
+Mauritius,Africa,2009,male,55-74 years,8,82341,9.72,Mauritius2009,,"9,128,843,109",7873,Silent,-20.348404000000002,57.552152
+Mauritius,Africa,2009,male,75+ years,1,13141,7.61,Mauritius2009,,"9,128,843,109",7873,Silent,-20.348404000000002,57.552152
+Mauritius,Africa,2009,female,15-24 years,7,97984,7.14,Mauritius2009,,"9,128,843,109",7873,Millenials,-20.348404000000002,57.552152
+Mauritius,Africa,2009,female,25-34 years,5,98003,5.1,Mauritius2009,,"9,128,843,109",7873,Generation X,-20.348404000000002,57.552152
+Mauritius,Africa,2009,female,75+ years,1,21454,4.66,Mauritius2009,,"9,128,843,109",7873,Silent,-20.348404000000002,57.552152
+Mauritius,Africa,2009,female,55-74 years,4,93824,4.26,Mauritius2009,,"9,128,843,109",7873,Silent,-20.348404000000002,57.552152
+Mauritius,Africa,2009,female,5-14 years,3,96125,3.12,Mauritius2009,,"9,128,843,109",7873,Generation Z,-20.348404000000002,57.552152
+Mauritius,Africa,2009,female,35-54 years,3,178594,1.68,Mauritius2009,,"9,128,843,109",7873,Boomers,-20.348404000000002,57.552152
+Mauritius,Africa,2009,male,5-14 years,1,99208,1.01,Mauritius2009,,"9,128,843,109",7873,Generation Z,-20.348404000000002,57.552152
+Mexico,North America,2009,male,75+ years,163,1144924,14.24,Mexico2009,,"900,045,362,045",8651,Silent,23.634501,-102.552784
+Mexico,North America,2009,male,25-34 years,985,9636154,10.22,Mexico2009,,"900,045,362,045",8651,Generation X,23.634501,-102.552784
+Mexico,North America,2009,male,35-54 years,1271,12663131,10.04,Mexico2009,,"900,045,362,045",8651,Boomers,23.634501,-102.552784
+Mexico,North America,2009,male,55-74 years,497,5132854,9.68,Mexico2009,,"900,045,362,045",8651,Silent,23.634501,-102.552784
+Mexico,North America,2009,male,15-24 years,1032,11057116,9.33,Mexico2009,,"900,045,362,045",8651,Millenials,23.634501,-102.552784
+Mexico,North America,2009,female,15-24 years,359,10695396,3.36,Mexico2009,,"900,045,362,045",8651,Millenials,23.634501,-102.552784
+Mexico,North America,2009,female,25-34 years,212,9636739,2.2,Mexico2009,,"900,045,362,045",8651,Generation X,23.634501,-102.552784
+Mexico,North America,2009,female,35-54 years,234,13420062,1.74,Mexico2009,,"900,045,362,045",8651,Boomers,23.634501,-102.552784
+Mexico,North America,2009,female,55-74 years,74,5495711,1.35,Mexico2009,,"900,045,362,045",8651,Silent,23.634501,-102.552784
+Mexico,North America,2009,male,5-14 years,109,11979752,0.91,Mexico2009,,"900,045,362,045",8651,Generation Z,23.634501,-102.552784
+Mexico,North America,2009,female,5-14 years,81,11560068,0.7,Mexico2009,,"900,045,362,045",8651,Generation Z,23.634501,-102.552784
+Mexico,North America,2009,female,75+ years,6,1622435,0.37,Mexico2009,,"900,045,362,045",8651,Silent,23.634501,-102.552784
+Montenegro,Europe,2009,male,75+ years,15,12568,119.35,Montenegro2009,,"4,159,330,370",7023,Silent,42.708678000000006,19.37439
+Montenegro,Europe,2009,male,55-74 years,23,54561,42.15,Montenegro2009,,"4,159,330,370",7023,Silent,42.708678000000006,19.37439
+Montenegro,Europe,2009,male,35-54 years,34,84584,40.2,Montenegro2009,,"4,159,330,370",7023,Boomers,42.708678000000006,19.37439
+Montenegro,Europe,2009,female,75+ years,5,18663,26.79,Montenegro2009,,"4,159,330,370",7023,Silent,42.708678000000006,19.37439
+Montenegro,Europe,2009,female,55-74 years,12,63879,18.79,Montenegro2009,,"4,159,330,370",7023,Silent,42.708678000000006,19.37439
+Montenegro,Europe,2009,female,35-54 years,10,86065,11.62,Montenegro2009,,"4,159,330,370",7023,Boomers,42.708678000000006,19.37439
+Montenegro,Europe,2009,male,15-24 years,3,48709,6.16,Montenegro2009,,"4,159,330,370",7023,Millenials,42.708678000000006,19.37439
+Montenegro,Europe,2009,female,25-34 years,2,47127,4.24,Montenegro2009,,"4,159,330,370",7023,Generation X,42.708678000000006,19.37439
+Montenegro,Europe,2009,male,5-14 years,1,42803,2.34,Montenegro2009,,"4,159,330,370",7023,Generation Z,42.708678000000006,19.37439
+Montenegro,Europe,2009,female,15-24 years,1,45885,2.18,Montenegro2009,,"4,159,330,370",7023,Millenials,42.708678000000006,19.37439
+Montenegro,Europe,2009,male,25-34 years,1,47403,2.11,Montenegro2009,,"4,159,330,370",7023,Generation X,42.708678000000006,19.37439
+Montenegro,Europe,2009,female,5-14 years,0,39987,0.0,Montenegro2009,,"4,159,330,370",7023,Generation Z,42.708678000000006,19.37439
+Netherlands,Europe,2009,male,75+ years,96,427097,22.48,Netherlands2009,,"857,932,759,100",54988,Silent,52.132633,5.291266
+Netherlands,Europe,2009,male,35-54 years,484,2493610,19.41,Netherlands2009,,"857,932,759,100",54988,Boomers,52.132633,5.291266
+Netherlands,Europe,2009,male,55-74 years,290,1737021,16.7,Netherlands2009,,"857,932,759,100",54988,Silent,52.132633,5.291266
+Netherlands,Europe,2009,male,25-34 years,115,1003333,11.46,Netherlands2009,,"857,932,759,100",54988,Generation X,52.132633,5.291266
+Netherlands,Europe,2009,female,35-54 years,209,2458921,8.5,Netherlands2009,,"857,932,759,100",54988,Boomers,52.132633,5.291266
+Netherlands,Europe,2009,male,15-24 years,77,1025904,7.51,Netherlands2009,,"857,932,759,100",54988,Millenials,52.132633,5.291266
+Netherlands,Europe,2009,female,55-74 years,131,1773158,7.39,Netherlands2009,,"857,932,759,100",54988,Silent,52.132633,5.291266
+Netherlands,Europe,2009,female,75+ years,48,705088,6.81,Netherlands2009,,"857,932,759,100",54988,Silent,52.132633,5.291266
+Netherlands,Europe,2009,female,25-34 years,48,996321,4.82,Netherlands2009,,"857,932,759,100",54988,Generation X,52.132633,5.291266
+Netherlands,Europe,2009,female,15-24 years,24,991956,2.42,Netherlands2009,,"857,932,759,100",54988,Millenials,52.132633,5.291266
+Netherlands,Europe,2009,male,5-14 years,6,1017952,0.59,Netherlands2009,,"857,932,759,100",54988,Generation Z,52.132633,5.291266
+Netherlands,Europe,2009,female,5-14 years,2,971815,0.21,Netherlands2009,,"857,932,759,100",54988,Generation Z,52.132633,5.291266
+New Zealand,Oceania,2009,male,15-24 years,94,320230,29.35,New Zealand2009,,"121,338,622,025",30259,Millenials,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,male,35-54 years,144,591800,24.33,New Zealand2009,,"121,338,622,025",30259,Boomers,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,male,25-34 years,64,267390,23.94,New Zealand2009,,"121,338,622,025",30259,Generation X,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,male,75+ years,25,104540,23.91,New Zealand2009,,"121,338,622,025",30259,Silent,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,male,55-74 years,61,376390,16.21,New Zealand2009,,"121,338,622,025",30259,Silent,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,female,25-34 years,20,281930,7.09,New Zealand2009,,"121,338,622,025",30259,Generation X,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,female,15-24 years,21,307230,6.84,New Zealand2009,,"121,338,622,025",30259,Millenials,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,female,35-54 years,42,634540,6.62,New Zealand2009,,"121,338,622,025",30259,Boomers,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,female,55-74 years,23,393990,5.84,New Zealand2009,,"121,338,622,025",30259,Silent,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,female,75+ years,8,146230,5.47,New Zealand2009,,"121,338,622,025",30259,Silent,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,male,5-14 years,6,300000,2.0,New Zealand2009,,"121,338,622,025",30259,Generation Z,-40.900557,174.88597099999998
+New Zealand,Oceania,2009,female,5-14 years,4,285710,1.4,New Zealand2009,,"121,338,622,025",30259,Generation Z,-40.900557,174.88597099999998
+Norway,Europe,2009,male,75+ years,36,136204,26.43,Norway2009,,"386,622,457,580",85394,Silent,60.472024,8.468946
+Norway,Europe,2009,male,55-74 years,111,468346,23.7,Norway2009,,"386,622,457,580",85394,Silent,60.472024,8.468946
+Norway,Europe,2009,male,35-54 years,153,702700,21.77,Norway2009,,"386,622,457,580",85394,Boomers,60.472024,8.468946
+Norway,Europe,2009,male,25-34 years,64,317068,20.18,Norway2009,,"386,622,457,580",85394,Generation X,60.472024,8.468946
+Norway,Europe,2009,male,15-24 years,51,317853,16.05,Norway2009,,"386,622,457,580",85394,Millenials,60.472024,8.468946
+Norway,Europe,2009,female,25-34 years,31,306776,10.11,Norway2009,,"386,622,457,580",85394,Generation X,60.472024,8.468946
+Norway,Europe,2009,female,35-54 years,59,669131,8.82,Norway2009,,"386,622,457,580",85394,Boomers,60.472024,8.468946
+Norway,Europe,2009,female,55-74 years,39,475431,8.2,Norway2009,,"386,622,457,580",85394,Silent,60.472024,8.468946
+Norway,Europe,2009,female,15-24 years,18,302896,5.94,Norway2009,,"386,622,457,580",85394,Millenials,60.472024,8.468946
+Norway,Europe,2009,female,75+ years,7,217354,3.22,Norway2009,,"386,622,457,580",85394,Silent,60.472024,8.468946
+Norway,Europe,2009,female,5-14 years,3,299406,1.0,Norway2009,,"386,622,457,580",85394,Generation Z,60.472024,8.468946
+Norway,Europe,2009,male,5-14 years,1,314371,0.32,Norway2009,,"386,622,457,580",85394,Generation Z,60.472024,8.468946
+Oman,Asia,2009,male,75+ years,2,10803,18.51,Oman2009,,"48,388,296,489",18557,Silent,21.512583,55.923255000000005
+Oman,Asia,2009,male,25-34 years,7,429691,1.63,Oman2009,,"48,388,296,489",18557,Generation X,21.512583,55.923255000000005
+Oman,Asia,2009,male,15-24 years,3,372207,0.81,Oman2009,,"48,388,296,489",18557,Millenials,21.512583,55.923255000000005
+Oman,Asia,2009,male,35-54 years,1,418960,0.24,Oman2009,,"48,388,296,489",18557,Boomers,21.512583,55.923255000000005
+Oman,Asia,2009,female,15-24 years,0,272065,0.0,Oman2009,,"48,388,296,489",18557,Millenials,21.512583,55.923255000000005
+Oman,Asia,2009,female,25-34 years,0,251089,0.0,Oman2009,,"48,388,296,489",18557,Generation X,21.512583,55.923255000000005
+Oman,Asia,2009,female,35-54 years,0,197737,0.0,Oman2009,,"48,388,296,489",18557,Boomers,21.512583,55.923255000000005
+Oman,Asia,2009,female,5-14 years,0,240602,0.0,Oman2009,,"48,388,296,489",18557,Generation Z,21.512583,55.923255000000005
+Oman,Asia,2009,female,55-74 years,0,61620,0.0,Oman2009,,"48,388,296,489",18557,Silent,21.512583,55.923255000000005
+Oman,Asia,2009,female,75+ years,0,13886,0.0,Oman2009,,"48,388,296,489",18557,Silent,21.512583,55.923255000000005
+Oman,Asia,2009,male,5-14 years,0,248322,0.0,Oman2009,,"48,388,296,489",18557,Generation Z,21.512583,55.923255000000005
+Oman,Asia,2009,male,55-74 years,0,90567,0.0,Oman2009,,"48,388,296,489",18557,Silent,21.512583,55.923255000000005
+Panama,North America,2009,male,25-34 years,44,289198,15.21,Panama2009,,"27,116,635,600",8436,Generation X,8.537981,-80.782127
+Panama,North America,2009,male,55-74 years,27,182355,14.81,Panama2009,,"27,116,635,600",8436,Silent,8.537981,-80.782127
+Panama,North America,2009,male,35-54 years,42,428945,9.79,Panama2009,,"27,116,635,600",8436,Boomers,8.537981,-80.782127
+Panama,North America,2009,male,15-24 years,29,317792,9.13,Panama2009,,"27,116,635,600",8436,Millenials,8.537981,-80.782127
+Panama,North America,2009,male,75+ years,4,43998,9.09,Panama2009,,"27,116,635,600",8436,Silent,8.537981,-80.782127
+Panama,North America,2009,female,15-24 years,16,307454,5.2,Panama2009,,"27,116,635,600",8436,Millenials,8.537981,-80.782127
+Panama,North America,2009,female,55-74 years,3,192158,1.56,Panama2009,,"27,116,635,600",8436,Silent,8.537981,-80.782127
+Panama,North America,2009,female,25-34 years,4,282846,1.41,Panama2009,,"27,116,635,600",8436,Generation X,8.537981,-80.782127
+Panama,North America,2009,female,35-54 years,4,430632,0.93,Panama2009,,"27,116,635,600",8436,Boomers,8.537981,-80.782127
+Panama,North America,2009,male,5-14 years,3,350210,0.86,Panama2009,,"27,116,635,600",8436,Generation Z,8.537981,-80.782127
+Panama,North America,2009,female,5-14 years,1,337598,0.3,Panama2009,,"27,116,635,600",8436,Generation Z,8.537981,-80.782127
+Panama,North America,2009,female,75+ years,0,51327,0.0,Panama2009,,"27,116,635,600",8436,Silent,8.537981,-80.782127
+Paraguay,South America,2009,male,75+ years,7,53377,13.11,Paraguay2009,,"15,929,902,138",2920,Silent,-23.442503,-58.44383199999999
+Paraguay,South America,2009,male,55-74 years,32,279099,11.47,Paraguay2009,,"15,929,902,138",2920,Silent,-23.442503,-58.44383199999999
+Paraguay,South America,2009,male,15-24 years,73,647674,11.27,Paraguay2009,,"15,929,902,138",2920,Millenials,-23.442503,-58.44383199999999
+Paraguay,South America,2009,male,25-34 years,43,486170,8.84,Paraguay2009,,"15,929,902,138",2920,Generation X,-23.442503,-58.44383199999999
+Paraguay,South America,2009,male,35-54 years,53,604066,8.77,Paraguay2009,,"15,929,902,138",2920,Boomers,-23.442503,-58.44383199999999
+Paraguay,South America,2009,female,15-24 years,33,625692,5.27,Paraguay2009,,"15,929,902,138",2920,Millenials,-23.442503,-58.44383199999999
+Paraguay,South America,2009,female,25-34 years,12,468073,2.56,Paraguay2009,,"15,929,902,138",2920,Generation X,-23.442503,-58.44383199999999
+Paraguay,South America,2009,female,35-54 years,14,583930,2.4,Paraguay2009,,"15,929,902,138",2920,Boomers,-23.442503,-58.44383199999999
+Paraguay,South America,2009,female,55-74 years,6,275899,2.17,Paraguay2009,,"15,929,902,138",2920,Silent,-23.442503,-58.44383199999999
+Paraguay,South America,2009,female,5-14 years,5,669630,0.75,Paraguay2009,,"15,929,902,138",2920,Generation Z,-23.442503,-58.44383199999999
+Paraguay,South America,2009,male,5-14 years,5,695155,0.72,Paraguay2009,,"15,929,902,138",2920,Generation Z,-23.442503,-58.44383199999999
+Paraguay,South America,2009,female,75+ years,0,67455,0.0,Paraguay2009,,"15,929,902,138",2920,Silent,-23.442503,-58.44383199999999
+Philippines,Asia,2009,male,75+ years,30,435025,6.9,Philippines2009,,"168,334,601,260",2073,Silent,12.879721,121.77401699999999
+Philippines,Asia,2009,male,25-34 years,383,7144648,5.36,Philippines2009,,"168,334,601,260",2073,Generation X,12.879721,121.77401699999999
+Philippines,Asia,2009,male,15-24 years,475,9146246,5.19,Philippines2009,,"168,334,601,260",2073,Millenials,12.879721,121.77401699999999
+Philippines,Asia,2009,male,55-74 years,171,3542917,4.83,Philippines2009,,"168,334,601,260",2073,Silent,12.879721,121.77401699999999
+Philippines,Asia,2009,male,35-54 years,468,9849908,4.75,Philippines2009,,"168,334,601,260",2073,Boomers,12.879721,121.77401699999999
+Philippines,Asia,2009,female,15-24 years,232,8838722,2.62,Philippines2009,,"168,334,601,260",2073,Millenials,12.879721,121.77401699999999
+Philippines,Asia,2009,female,25-34 years,101,6948096,1.45,Philippines2009,,"168,334,601,260",2073,Generation X,12.879721,121.77401699999999
+Philippines,Asia,2009,female,55-74 years,56,3992044,1.4,Philippines2009,,"168,334,601,260",2073,Silent,12.879721,121.77401699999999
+Philippines,Asia,2009,female,35-54 years,114,9705410,1.17,Philippines2009,,"168,334,601,260",2073,Boomers,12.879721,121.77401699999999
+Philippines,Asia,2009,female,75+ years,6,696919,0.86,Philippines2009,,"168,334,601,260",2073,Silent,12.879721,121.77401699999999
+Philippines,Asia,2009,male,5-14 years,22,10758565,0.2,Philippines2009,,"168,334,601,260",2073,Generation Z,12.879721,121.77401699999999
+Philippines,Asia,2009,female,5-14 years,16,10135355,0.16,Philippines2009,,"168,334,601,260",2073,Generation Z,12.879721,121.77401699999999
+Poland,Europe,2009,male,35-54 years,2343,5232406,44.78,Poland2009,,"439,796,160,379",12141,Boomers,51.919438,19.145135999999997
+Poland,Europe,2009,male,55-74 years,1501,3393358,44.23,Poland2009,,"439,796,160,379",12141,Silent,51.919438,19.145135999999997
+Poland,Europe,2009,male,75+ years,270,788583,34.24,Poland2009,,"439,796,160,379",12141,Silent,51.919438,19.145135999999997
+Poland,Europe,2009,male,25-34 years,784,3173718,24.7,Poland2009,,"439,796,160,379",12141,Generation X,51.919438,19.145135999999997
+Poland,Europe,2009,male,15-24 years,608,2851473,21.32,Poland2009,,"439,796,160,379",12141,Millenials,51.919438,19.145135999999997
+Poland,Europe,2009,female,55-74 years,340,4182592,8.13,Poland2009,,"439,796,160,379",12141,Silent,51.919438,19.145135999999997
+Poland,Europe,2009,female,35-54 years,342,5294575,6.46,Poland2009,,"439,796,160,379",12141,Boomers,51.919438,19.145135999999997
+Poland,Europe,2009,female,75+ years,94,1590245,5.91,Poland2009,,"439,796,160,379",12141,Silent,51.919438,19.145135999999997
+Poland,Europe,2009,female,15-24 years,75,2740576,2.74,Poland2009,,"439,796,160,379",12141,Millenials,51.919438,19.145135999999997
+Poland,Europe,2009,female,25-34 years,82,3090294,2.65,Poland2009,,"439,796,160,379",12141,Generation X,51.919438,19.145135999999997
+Poland,Europe,2009,male,5-14 years,25,1992140,1.25,Poland2009,,"439,796,160,379",12141,Generation Z,51.919438,19.145135999999997
+Poland,Europe,2009,female,5-14 years,13,1893442,0.69,Poland2009,,"439,796,160,379",12141,Generation Z,51.919438,19.145135999999997
+Portugal,Europe,2009,male,75+ years,202,341119,59.22,Portugal2009,,"243,745,748,819",24254,Silent,39.399871999999995,-8.224454
+Portugal,Europe,2009,male,55-74 years,250,1050939,23.79,Portugal2009,,"243,745,748,819",24254,Silent,39.399871999999995,-8.224454
+Portugal,Europe,2009,male,35-54 years,235,1490036,15.77,Portugal2009,,"243,745,748,819",24254,Boomers,39.399871999999995,-8.224454
+Portugal,Europe,2009,female,75+ years,58,557541,10.4,Portugal2009,,"243,745,748,819",24254,Silent,39.399871999999995,-8.224454
+Portugal,Europe,2009,male,25-34 years,74,752496,9.83,Portugal2009,,"243,745,748,819",24254,Generation X,39.399871999999995,-8.224454
+Portugal,Europe,2009,male,15-24 years,41,597960,6.86,Portugal2009,,"243,745,748,819",24254,Millenials,39.399871999999995,-8.224454
+Portugal,Europe,2009,female,55-74 years,74,1234820,5.99,Portugal2009,,"243,745,748,819",24254,Silent,39.399871999999995,-8.224454
+Portugal,Europe,2009,female,35-54 years,66,1570466,4.2,Portugal2009,,"243,745,748,819",24254,Boomers,39.399871999999995,-8.224454
+Portugal,Europe,2009,female,25-34 years,16,769405,2.08,Portugal2009,,"243,745,748,819",24254,Generation X,39.399871999999995,-8.224454
+Portugal,Europe,2009,female,15-24 years,8,578987,1.38,Portugal2009,,"243,745,748,819",24254,Millenials,39.399871999999995,-8.224454
+Portugal,Europe,2009,male,5-14 years,1,567117,0.18,Portugal2009,,"243,745,748,819",24254,Generation Z,39.399871999999995,-8.224454
+Portugal,Europe,2009,female,5-14 years,0,539032,0.0,Portugal2009,,"243,745,748,819",24254,Generation Z,39.399871999999995,-8.224454
+Puerto Rico,North America,2009,male,75+ years,31,85763,36.15,Puerto Rico2009,,"96,385,638,000",27661,Silent,18.220833,-66.590149
+Puerto Rico,North America,2009,male,55-74 years,82,292914,27.99,Puerto Rico2009,,"96,385,638,000",27661,Silent,18.220833,-66.590149
+Puerto Rico,North America,2009,male,35-54 years,111,451905,24.56,Puerto Rico2009,,"96,385,638,000",27661,Boomers,18.220833,-66.590149
+Puerto Rico,North America,2009,male,25-34 years,51,263724,19.34,Puerto Rico2009,,"96,385,638,000",27661,Generation X,18.220833,-66.590149
+Puerto Rico,North America,2009,male,15-24 years,25,291774,8.57,Puerto Rico2009,,"96,385,638,000",27661,Millenials,18.220833,-66.590149
+Puerto Rico,North America,2009,female,25-34 years,7,271400,2.58,Puerto Rico2009,,"96,385,638,000",27661,Generation X,18.220833,-66.590149
+Puerto Rico,North America,2009,female,35-54 years,12,513239,2.34,Puerto Rico2009,,"96,385,638,000",27661,Boomers,18.220833,-66.590149
+Puerto Rico,North America,2009,female,55-74 years,7,357988,1.96,Puerto Rico2009,,"96,385,638,000",27661,Silent,18.220833,-66.590149
+Puerto Rico,North America,2009,female,15-24 years,3,287058,1.05,Puerto Rico2009,,"96,385,638,000",27661,Millenials,18.220833,-66.590149
+Puerto Rico,North America,2009,male,5-14 years,1,280317,0.36,Puerto Rico2009,,"96,385,638,000",27661,Generation Z,18.220833,-66.590149
+Puerto Rico,North America,2009,female,5-14 years,0,260415,0.0,Puerto Rico2009,,"96,385,638,000",27661,Generation Z,18.220833,-66.590149
+Puerto Rico,North America,2009,female,75+ years,0,127977,0.0,Puerto Rico2009,,"96,385,638,000",27661,Silent,18.220833,-66.590149
+Qatar,Asia,2009,male,55-74 years,2,45092,4.44,Qatar2009,,"97,798,351,648",64911,Silent,25.354826,51.183884
+Qatar,Asia,2009,male,15-24 years,8,194348,4.12,Qatar2009,,"97,798,351,648",64911,Millenials,25.354826,51.183884
+Qatar,Asia,2009,male,25-34 years,16,399923,4.0,Qatar2009,,"97,798,351,648",64911,Generation X,25.354826,51.183884
+Qatar,Asia,2009,male,35-54 years,15,442932,3.39,Qatar2009,,"97,798,351,648",64911,Boomers,25.354826,51.183884
+Qatar,Asia,2009,female,15-24 years,2,67911,2.95,Qatar2009,,"97,798,351,648",64911,Millenials,25.354826,51.183884
+Qatar,Asia,2009,female,25-34 years,1,100429,1.0,Qatar2009,,"97,798,351,648",64911,Generation X,25.354826,51.183884
+Qatar,Asia,2009,female,35-54 years,0,104199,0.0,Qatar2009,,"97,798,351,648",64911,Boomers,25.354826,51.183884
+Qatar,Asia,2009,female,5-14 years,0,65535,0.0,Qatar2009,,"97,798,351,648",64911,Generation Z,25.354826,51.183884
+Qatar,Asia,2009,female,55-74 years,0,14648,0.0,Qatar2009,,"97,798,351,648",64911,Silent,25.354826,51.183884
+Qatar,Asia,2009,female,75+ years,0,1681,0.0,Qatar2009,,"97,798,351,648",64911,Silent,25.354826,51.183884
+Qatar,Asia,2009,male,5-14 years,0,68172,0.0,Qatar2009,,"97,798,351,648",64911,Generation Z,25.354826,51.183884
+Qatar,Asia,2009,male,75+ years,0,1779,0.0,Qatar2009,,"97,798,351,648",64911,Silent,25.354826,51.183884
+Republic of Korea,Asia,2009,male,75+ years,1006,578635,173.86,Republic of Korea2009,,"901,934,953,365",19036,Silent,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,male,55-74 years,3025,3806592,79.47,Republic of Korea2009,,"901,934,953,365",19036,Silent,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,female,75+ years,920,1191463,77.22,Republic of Korea2009,,"901,934,953,365",19036,Silent,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,male,35-54 years,4048,8621339,46.95,Republic of Korea2009,,"901,934,953,365",19036,Boomers,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,male,25-34 years,1260,4022361,31.32,Republic of Korea2009,,"901,934,953,365",19036,Generation X,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,female,25-34 years,1121,3844207,29.16,Republic of Korea2009,,"901,934,953,365",19036,Generation X,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,female,55-74 years,1152,4264449,27.01,Republic of Korea2009,,"901,934,953,365",19036,Silent,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,female,35-54 years,1780,8350429,21.32,Republic of Korea2009,,"901,934,953,365",19036,Boomers,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,male,15-24 years,549,3472834,15.81,Republic of Korea2009,,"901,934,953,365",19036,Millenials,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,female,15-24 years,460,3120462,14.74,Republic of Korea2009,,"901,934,953,365",19036,Millenials,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,female,5-14 years,42,2908040,1.44,Republic of Korea2009,,"901,934,953,365",19036,Generation Z,35.907757000000004,127.766922
+Republic of Korea,Asia,2009,male,5-14 years,39,3199206,1.22,Republic of Korea2009,,"901,934,953,365",19036,Generation Z,35.907757000000004,127.766922
+Romania,Europe,2009,male,55-74 years,646,1946544,33.19,Romania2009,,"172,611,845,342",8465,Silent,45.943160999999996,24.96676
+Romania,Europe,2009,male,75+ years,159,512470,31.03,Romania2009,,"172,611,845,342",8465,Silent,45.943160999999996,24.96676
+Romania,Europe,2009,male,35-54 years,940,3031317,31.01,Romania2009,,"172,611,845,342",8465,Boomers,45.943160999999996,24.96676
+Romania,Europe,2009,male,25-34 years,275,1744278,15.77,Romania2009,,"172,611,845,342",8465,Generation X,45.943160999999996,24.96676
+Romania,Europe,2009,male,15-24 years,163,1556450,10.47,Romania2009,,"172,611,845,342",8465,Millenials,45.943160999999996,24.96676
+Romania,Europe,2009,female,75+ years,53,838699,6.32,Romania2009,,"172,611,845,342",8465,Silent,45.943160999999996,24.96676
+Romania,Europe,2009,female,55-74 years,124,2388417,5.19,Romania2009,,"172,611,845,342",8465,Silent,45.943160999999996,24.96676
+Romania,Europe,2009,female,35-54 years,131,3055180,4.29,Romania2009,,"172,611,845,342",8465,Boomers,45.943160999999996,24.96676
+Romania,Europe,2009,female,15-24 years,39,1491923,2.61,Romania2009,,"172,611,845,342",8465,Millenials,45.943160999999996,24.96676
+Romania,Europe,2009,female,25-34 years,32,1658906,1.93,Romania2009,,"172,611,845,342",8465,Generation X,45.943160999999996,24.96676
+Romania,Europe,2009,male,5-14 years,14,1111827,1.26,Romania2009,,"172,611,845,342",8465,Generation Z,45.943160999999996,24.96676
+Romania,Europe,2009,female,5-14 years,10,1054871,0.95,Romania2009,,"172,611,845,342",8465,Generation Z,45.943160999999996,24.96676
+Russian Federation,Asia,2009,male,75+ years,1534,2012787,76.21,Russian Federation2009,,"1,222,643,696,992",9118,Silent,61.52401,105.31875600000001
+Russian Federation,Asia,2009,male,25-34 years,7233,11373727,63.59,Russian Federation2009,,"1,222,643,696,992",9118,Generation X,61.52401,105.31875600000001
+Russian Federation,Asia,2009,male,35-54 years,11721,19901557,58.89,Russian Federation2009,,"1,222,643,696,992",9118,Boomers,61.52401,105.31875600000001
+Russian Federation,Asia,2009,male,55-74 years,5637,10645241,52.95,Russian Federation2009,,"1,222,643,696,992",9118,Silent,61.52401,105.31875600000001
+Russian Federation,Asia,2009,male,15-24 years,4632,10819693,42.81,Russian Federation2009,,"1,222,643,696,992",9118,Millenials,61.52401,105.31875600000001
+Russian Federation,Asia,2009,female,75+ years,1133,5657810,20.03,Russian Federation2009,,"1,222,643,696,992",9118,Silent,61.52401,105.31875600000001
+Russian Federation,Asia,2009,female,55-74 years,1519,16287675,9.33,Russian Federation2009,,"1,222,643,696,992",9118,Silent,61.52401,105.31875600000001
+Russian Federation,Asia,2009,female,35-54 years,1930,22050450,8.75,Russian Federation2009,,"1,222,643,696,992",9118,Boomers,61.52401,105.31875600000001
+Russian Federation,Asia,2009,female,25-34 years,986,11440839,8.62,Russian Federation2009,,"1,222,643,696,992",9118,Generation X,61.52401,105.31875600000001
+Russian Federation,Asia,2009,female,15-24 years,839,10472951,8.01,Russian Federation2009,,"1,222,643,696,992",9118,Millenials,61.52401,105.31875600000001
+Russian Federation,Asia,2009,male,5-14 years,166,6869835,2.42,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z,61.52401,105.31875600000001
+Russian Federation,Asia,2009,female,5-14 years,78,6552868,1.19,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z,61.52401,105.31875600000001
+Saint Lucia,North America,2009,male,35-54 years,6,21964,27.32,Saint Lucia2009,,"1,262,973,407",7902,Boomers,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,male,55-74 years,2,9605,20.82,Saint Lucia2009,,"1,262,973,407",7902,Silent,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,male,15-24 years,3,15639,19.18,Saint Lucia2009,,"1,262,973,407",7902,Millenials,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,male,25-34 years,2,13332,15.0,Saint Lucia2009,,"1,262,973,407",7902,Generation X,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,female,15-24 years,0,15855,0.0,Saint Lucia2009,,"1,262,973,407",7902,Millenials,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,female,25-34 years,0,13937,0.0,Saint Lucia2009,,"1,262,973,407",7902,Generation X,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,female,35-54 years,0,23037,0.0,Saint Lucia2009,,"1,262,973,407",7902,Boomers,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,female,5-14 years,0,14879,0.0,Saint Lucia2009,,"1,262,973,407",7902,Generation Z,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,female,55-74 years,0,10217,0.0,Saint Lucia2009,,"1,262,973,407",7902,Silent,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,female,75+ years,0,3676,0.0,Saint Lucia2009,,"1,262,973,407",7902,Silent,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,male,5-14 years,0,14963,0.0,Saint Lucia2009,,"1,262,973,407",7902,Generation Z,13.909444,-60.97889300000001
+Saint Lucia,North America,2009,male,75+ years,0,2716,0.0,Saint Lucia2009,,"1,262,973,407",7902,Silent,13.909444,-60.97889300000001
+Saint Vincent and Grenadines,North America,2009,male,25-34 years,1,8944,11.18,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation X,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,female,15-24 years,0,10126,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Millenials,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,female,25-34 years,0,8643,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation X,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,female,35-54 years,0,13206,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Boomers,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,female,5-14 years,0,9944,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation Z,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,female,55-74 years,0,5787,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,female,75+ years,0,1761,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,male,15-24 years,0,10305,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Millenials,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,male,35-54 years,0,14258,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Boomers,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,male,5-14 years,0,10156,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation Z,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,male,55-74 years,0,5558,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent,12.984305,-61.287228000000006
+Saint Vincent and Grenadines,North America,2009,male,75+ years,0,1239,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent,12.984305,-61.287228000000006
+Serbia,Europe,2009,male,75+ years,204,212060,96.2,Serbia2009,,"42,616,653,300",6116,Silent,44.016521000000004,21.005859
+Serbia,Europe,2009,male,55-74 years,341,795140,42.89,Serbia2009,,"42,616,653,300",6116,Silent,44.016521000000004,21.005859
+Serbia,Europe,2009,male,35-54 years,328,994315,32.99,Serbia2009,,"42,616,653,300",6116,Boomers,44.016521000000004,21.005859
+Serbia,Europe,2009,female,75+ years,92,324298,28.37,Serbia2009,,"42,616,653,300",6116,Silent,44.016521000000004,21.005859
+Serbia,Europe,2009,male,25-34 years,85,520754,16.32,Serbia2009,,"42,616,653,300",6116,Generation X,44.016521000000004,21.005859
+Serbia,Europe,2009,female,55-74 years,145,923078,15.71,Serbia2009,,"42,616,653,300",6116,Silent,44.016521000000004,21.005859
+Serbia,Europe,2009,female,35-54 years,102,1020674,9.99,Serbia2009,,"42,616,653,300",6116,Boomers,44.016521000000004,21.005859
+Serbia,Europe,2009,male,15-24 years,38,464633,8.18,Serbia2009,,"42,616,653,300",6116,Millenials,44.016521000000004,21.005859
+Serbia,Europe,2009,female,25-34 years,29,507066,5.72,Serbia2009,,"42,616,653,300",6116,Generation X,44.016521000000004,21.005859
+Serbia,Europe,2009,female,15-24 years,8,443784,1.8,Serbia2009,,"42,616,653,300",6116,Millenials,44.016521000000004,21.005859
+Serbia,Europe,2009,male,5-14 years,1,391205,0.26,Serbia2009,,"42,616,653,300",6116,Generation Z,44.016521000000004,21.005859
+Serbia,Europe,2009,female,5-14 years,0,371233,0.0,Serbia2009,,"42,616,653,300",6116,Generation Z,44.016521000000004,21.005859
+Seychelles,Africa,2009,male,55-74 years,1,4543,22.01,Seychelles2009,,"847,397,850",10157,Silent,-4.679574,55.491977
+Seychelles,Africa,2009,male,35-54 years,3,13762,21.8,Seychelles2009,,"847,397,850",10157,Boomers,-4.679574,55.491977
+Seychelles,Africa,2009,female,15-24 years,0,7002,0.0,Seychelles2009,,"847,397,850",10157,Millenials,-4.679574,55.491977
+Seychelles,Africa,2009,female,25-34 years,0,7236,0.0,Seychelles2009,,"847,397,850",10157,Generation X,-4.679574,55.491977
+Seychelles,Africa,2009,female,35-54 years,0,12916,0.0,Seychelles2009,,"847,397,850",10157,Boomers,-4.679574,55.491977
+Seychelles,Africa,2009,female,5-14 years,0,6600,0.0,Seychelles2009,,"847,397,850",10157,Generation Z,-4.679574,55.491977
+Seychelles,Africa,2009,female,55-74 years,0,4788,0.0,Seychelles2009,,"847,397,850",10157,Silent,-4.679574,55.491977
+Seychelles,Africa,2009,female,75+ years,0,1926,0.0,Seychelles2009,,"847,397,850",10157,Silent,-4.679574,55.491977
+Seychelles,Africa,2009,male,15-24 years,0,8119,0.0,Seychelles2009,,"847,397,850",10157,Millenials,-4.679574,55.491977
+Seychelles,Africa,2009,male,25-34 years,0,8495,0.0,Seychelles2009,,"847,397,850",10157,Generation X,-4.679574,55.491977
+Seychelles,Africa,2009,male,5-14 years,0,7017,0.0,Seychelles2009,,"847,397,850",10157,Generation Z,-4.679574,55.491977
+Seychelles,Africa,2009,male,75+ years,0,1025,0.0,Seychelles2009,,"847,397,850",10157,Silent,-4.679574,55.491977
+Singapore,Asia,2009,male,75+ years,22,50400,43.65,Singapore2009,,"192,408,387,762",54413,Silent,1.352083,103.819836
+Singapore,Asia,2009,female,75+ years,18,75900,23.72,Singapore2009,,"192,408,387,762",54413,Silent,1.352083,103.819836
+Singapore,Asia,2009,male,55-74 years,50,299900,16.67,Singapore2009,,"192,408,387,762",54413,Silent,1.352083,103.819836
+Singapore,Asia,2009,male,35-54 years,99,623400,15.88,Singapore2009,,"192,408,387,762",54413,Boomers,1.352083,103.819836
+Singapore,Asia,2009,male,25-34 years,41,274700,14.93,Singapore2009,,"192,408,387,762",54413,Generation X,1.352083,103.819836
+Singapore,Asia,2009,female,55-74 years,33,313500,10.53,Singapore2009,,"192,408,387,762",54413,Silent,1.352083,103.819836
+Singapore,Asia,2009,male,15-24 years,21,254400,8.25,Singapore2009,,"192,408,387,762",54413,Millenials,1.352083,103.819836
+Singapore,Asia,2009,female,35-54 years,40,626800,6.38,Singapore2009,,"192,408,387,762",54413,Boomers,1.352083,103.819836
+Singapore,Asia,2009,female,15-24 years,11,250100,4.4,Singapore2009,,"192,408,387,762",54413,Millenials,1.352083,103.819836
+Singapore,Asia,2009,female,25-34 years,9,296900,3.03,Singapore2009,,"192,408,387,762",54413,Generation X,1.352083,103.819836
+Singapore,Asia,2009,female,5-14 years,3,228900,1.31,Singapore2009,,"192,408,387,762",54413,Generation Z,1.352083,103.819836
+Singapore,Asia,2009,male,5-14 years,2,241200,0.83,Singapore2009,,"192,408,387,762",54413,Generation Z,1.352083,103.819836
+Slovakia,Europe,2009,male,75+ years,35,93229,37.54,Slovakia2009,,"88,945,625,174",17299,Silent,48.669026,19.699023999999998
+Slovakia,Europe,2009,male,55-74 years,161,457071,35.22,Slovakia2009,,"88,945,625,174",17299,Silent,48.669026,19.699023999999998
+Slovakia,Europe,2009,male,35-54 years,242,774112,31.26,Slovakia2009,,"88,945,625,174",17299,Boomers,48.669026,19.699023999999998
+Slovakia,Europe,2009,male,25-34 years,65,473483,13.73,Slovakia2009,,"88,945,625,174",17299,Generation X,48.669026,19.699023999999998
+Slovakia,Europe,2009,male,15-24 years,40,408014,9.8,Slovakia2009,,"88,945,625,174",17299,Millenials,48.669026,19.699023999999998
+Slovakia,Europe,2009,female,55-74 years,22,569666,3.86,Slovakia2009,,"88,945,625,174",17299,Silent,48.669026,19.699023999999998
+Slovakia,Europe,2009,female,35-54 years,21,774237,2.71,Slovakia2009,,"88,945,625,174",17299,Boomers,48.669026,19.699023999999998
+Slovakia,Europe,2009,female,75+ years,5,190507,2.62,Slovakia2009,,"88,945,625,174",17299,Silent,48.669026,19.699023999999998
+Slovakia,Europe,2009,female,25-34 years,6,453130,1.32,Slovakia2009,,"88,945,625,174",17299,Generation X,48.669026,19.699023999999998
+Slovakia,Europe,2009,female,15-24 years,4,391007,1.02,Slovakia2009,,"88,945,625,174",17299,Millenials,48.669026,19.699023999999998
+Slovakia,Europe,2009,female,5-14 years,0,271665,0.0,Slovakia2009,,"88,945,625,174",17299,Generation Z,48.669026,19.699023999999998
+Slovakia,Europe,2009,male,5-14 years,0,285623,0.0,Slovakia2009,,"88,945,625,174",17299,Generation Z,48.669026,19.699023999999998
+Slovenia,Europe,2009,male,75+ years,38,48622,78.15,Slovenia2009,,"50,244,793,832",25872,Silent,46.151241,14.995463
+Slovenia,Europe,2009,male,55-74 years,117,211765,55.25,Slovenia2009,,"50,244,793,832",25872,Silent,46.151241,14.995463
+Slovenia,Europe,2009,male,35-54 years,134,316752,42.3,Slovenia2009,,"50,244,793,832",25872,Boomers,46.151241,14.995463
+Slovenia,Europe,2009,male,25-34 years,43,162292,26.5,Slovenia2009,,"50,244,793,832",25872,Generation X,46.151241,14.995463
+Slovenia,Europe,2009,female,75+ years,21,101714,20.65,Slovenia2009,,"50,244,793,832",25872,Silent,46.151241,14.995463
+Slovenia,Europe,2009,female,55-74 years,38,230162,16.51,Slovenia2009,,"50,244,793,832",25872,Silent,46.151241,14.995463
+Slovenia,Europe,2009,male,15-24 years,18,125503,14.34,Slovenia2009,,"50,244,793,832",25872,Millenials,46.151241,14.995463
+Slovenia,Europe,2009,female,35-54 years,33,298902,11.04,Slovenia2009,,"50,244,793,832",25872,Boomers,46.151241,14.995463
+Slovenia,Europe,2009,female,15-24 years,3,115384,2.6,Slovenia2009,,"50,244,793,832",25872,Millenials,46.151241,14.995463
+Slovenia,Europe,2009,female,25-34 years,2,145730,1.37,Slovenia2009,,"50,244,793,832",25872,Generation X,46.151241,14.995463
+Slovenia,Europe,2009,female,5-14 years,0,89801,0.0,Slovenia2009,,"50,244,793,832",25872,Generation Z,46.151241,14.995463
+Slovenia,Europe,2009,male,5-14 years,0,95410,0.0,Slovenia2009,,"50,244,793,832",25872,Generation Z,46.151241,14.995463
+South Africa,Africa,2009,male,25-34 years,80,4482123,1.78,South Africa2009,,"297,216,730,669",6517,Generation X,-30.559482,22.937506
+South Africa,Africa,2009,male,55-74 years,34,2011938,1.69,South Africa2009,,"297,216,730,669",6517,Silent,-30.559482,22.937506
+South Africa,Africa,2009,male,75+ years,4,249921,1.6,South Africa2009,,"297,216,730,669",6517,Silent,-30.559482,22.937506
+South Africa,Africa,2009,male,35-54 years,79,5245122,1.51,South Africa2009,,"297,216,730,669",6517,Boomers,-30.559482,22.937506
+South Africa,Africa,2009,male,15-24 years,77,5166324,1.49,South Africa2009,,"297,216,730,669",6517,Millenials,-30.559482,22.937506
+South Africa,Africa,2009,female,15-24 years,36,5087135,0.71,South Africa2009,,"297,216,730,669",6517,Millenials,-30.559482,22.937506
+South Africa,Africa,2009,female,75+ years,3,502919,0.6,South Africa2009,,"297,216,730,669",6517,Silent,-30.559482,22.937506
+South Africa,Africa,2009,female,35-54 years,25,5714588,0.44,South Africa2009,,"297,216,730,669",6517,Boomers,-30.559482,22.937506
+South Africa,Africa,2009,female,25-34 years,18,4321786,0.42,South Africa2009,,"297,216,730,669",6517,Generation X,-30.559482,22.937506
+South Africa,Africa,2009,female,55-74 years,8,2569004,0.31,South Africa2009,,"297,216,730,669",6517,Silent,-30.559482,22.937506
+South Africa,Africa,2009,male,5-14 years,6,5162677,0.12,South Africa2009,,"297,216,730,669",6517,Generation Z,-30.559482,22.937506
+South Africa,Africa,2009,female,5-14 years,2,5093511,0.04,South Africa2009,,"297,216,730,669",6517,Generation Z,-30.559482,22.937506
+Spain,Europe,2009,male,75+ years,517,1514292,34.14,Spain2009,,"1,499,099,749,931",34470,Silent,40.463667,-3.7492199999999998
+Spain,Europe,2009,male,55-74 years,714,4165673,17.14,Spain2009,,"1,499,099,749,931",34470,Silent,40.463667,-3.7492199999999998
+Spain,Europe,2009,male,35-54 years,945,7078821,13.35,Spain2009,,"1,499,099,749,931",34470,Boomers,40.463667,-3.7492199999999998
+Spain,Europe,2009,male,25-34 years,344,3882169,8.86,Spain2009,,"1,499,099,749,931",34470,Generation X,40.463667,-3.7492199999999998
+Spain,Europe,2009,female,75+ years,149,2382502,6.25,Spain2009,,"1,499,099,749,931",34470,Silent,40.463667,-3.7492199999999998
+Spain,Europe,2009,male,15-24 years,139,2527370,5.5,Spain2009,,"1,499,099,749,931",34470,Millenials,40.463667,-3.7492199999999998
+Spain,Europe,2009,female,55-74 years,227,4595765,4.94,Spain2009,,"1,499,099,749,931",34470,Silent,40.463667,-3.7492199999999998
+Spain,Europe,2009,female,35-54 years,274,6917215,3.96,Spain2009,,"1,499,099,749,931",34470,Boomers,40.463667,-3.7492199999999998
+Spain,Europe,2009,female,25-34 years,80,3645416,2.19,Spain2009,,"1,499,099,749,931",34470,Generation X,40.463667,-3.7492199999999998
+Spain,Europe,2009,female,15-24 years,32,2405171,1.33,Spain2009,,"1,499,099,749,931",34470,Millenials,40.463667,-3.7492199999999998
+Spain,Europe,2009,male,5-14 years,7,2247483,0.31,Spain2009,,"1,499,099,749,931",34470,Generation Z,40.463667,-3.7492199999999998
+Spain,Europe,2009,female,5-14 years,1,2128209,0.05,Spain2009,,"1,499,099,749,931",34470,Generation Z,40.463667,-3.7492199999999998
+Suriname,South America,2009,male,75+ years,4,4932,81.1,Suriname2009,,"3,875,409,836",8238,Silent,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,male,35-54 years,46,67116,68.54,Suriname2009,,"3,875,409,836",8238,Boomers,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,male,55-74 years,12,24763,48.46,Suriname2009,,"3,875,409,836",8238,Silent,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,male,25-34 years,18,39139,45.99,Suriname2009,,"3,875,409,836",8238,Generation X,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,male,15-24 years,18,47548,37.86,Suriname2009,,"3,875,409,836",8238,Millenials,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,female,55-74 years,6,29225,20.53,Suriname2009,,"3,875,409,836",8238,Silent,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,female,15-24 years,9,45374,19.84,Suriname2009,,"3,875,409,836",8238,Millenials,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,female,75+ years,1,6530,15.31,Suriname2009,,"3,875,409,836",8238,Silent,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,female,35-54 years,9,65668,13.71,Suriname2009,,"3,875,409,836",8238,Boomers,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,female,25-34 years,4,38634,10.35,Suriname2009,,"3,875,409,836",8238,Generation X,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,female,5-14 years,3,49092,6.11,Suriname2009,,"3,875,409,836",8238,Generation Z,3.9193050000000005,-56.02778299999999
+Suriname,South America,2009,male,5-14 years,1,52427,1.91,Suriname2009,,"3,875,409,836",8238,Generation Z,3.9193050000000005,-56.02778299999999
+Sweden,Europe,2009,male,75+ years,109,316812,34.41,Sweden2009,,"429,657,033,108",49070,Silent,60.128161,18.643501
+Sweden,Europe,2009,male,55-74 years,261,1029075,25.36,Sweden2009,,"429,657,033,108",49070,Silent,60.128161,18.643501
+Sweden,Europe,2009,male,35-54 years,313,1266615,24.71,Sweden2009,,"429,657,033,108",49070,Boomers,60.128161,18.643501
+Sweden,Europe,2009,male,25-34 years,111,588185,18.87,Sweden2009,,"429,657,033,108",49070,Generation X,60.128161,18.643501
+Sweden,Europe,2009,male,15-24 years,91,632027,14.4,Sweden2009,,"429,657,033,108",49070,Millenials,60.128161,18.643501
+Sweden,Europe,2009,female,35-54 years,133,1226921,10.84,Sweden2009,,"429,657,033,108",49070,Boomers,60.128161,18.643501
+Sweden,Europe,2009,female,55-74 years,106,1048846,10.11,Sweden2009,,"429,657,033,108",49070,Silent,60.128161,18.643501
+Sweden,Europe,2009,female,75+ years,36,481488,7.48,Sweden2009,,"429,657,033,108",49070,Silent,60.128161,18.643501
+Sweden,Europe,2009,female,15-24 years,43,600839,7.16,Sweden2009,,"429,657,033,108",49070,Millenials,60.128161,18.643501
+Sweden,Europe,2009,female,25-34 years,33,561793,5.87,Sweden2009,,"429,657,033,108",49070,Generation X,60.128161,18.643501
+Sweden,Europe,2009,female,5-14 years,3,488574,0.61,Sweden2009,,"429,657,033,108",49070,Generation Z,60.128161,18.643501
+Sweden,Europe,2009,male,5-14 years,3,514747,0.58,Sweden2009,,"429,657,033,108",49070,Generation Z,60.128161,18.643501
+Switzerland,Europe,2009,male,75+ years,124,233232,53.17,Switzerland2009,,"541,506,500,414",73529,Silent,46.818188,8.227511999999999
+Switzerland,Europe,2009,male,55-74 years,242,780927,30.99,Switzerland2009,,"541,506,500,414",73529,Silent,46.818188,8.227511999999999
+Switzerland,Europe,2009,male,35-54 years,311,1204496,25.82,Switzerland2009,,"541,506,500,414",73529,Boomers,46.818188,8.227511999999999
+Switzerland,Europe,2009,male,15-24 years,75,470230,15.95,Switzerland2009,,"541,506,500,414",73529,Millenials,46.818188,8.227511999999999
+Switzerland,Europe,2009,male,25-34 years,72,512293,14.05,Switzerland2009,,"541,506,500,414",73529,Generation X,46.818188,8.227511999999999
+Switzerland,Europe,2009,female,75+ years,41,385288,10.64,Switzerland2009,,"541,506,500,414",73529,Silent,46.818188,8.227511999999999
+Switzerland,Europe,2009,female,55-74 years,85,827353,10.27,Switzerland2009,,"541,506,500,414",73529,Silent,46.818188,8.227511999999999
+Switzerland,Europe,2009,female,35-54 years,106,1184336,8.95,Switzerland2009,,"541,506,500,414",73529,Boomers,46.818188,8.227511999999999
+Switzerland,Europe,2009,female,25-34 years,25,512791,4.88,Switzerland2009,,"541,506,500,414",73529,Generation X,46.818188,8.227511999999999
+Switzerland,Europe,2009,female,15-24 years,20,452598,4.42,Switzerland2009,,"541,506,500,414",73529,Millenials,46.818188,8.227511999999999
+Switzerland,Europe,2009,male,5-14 years,3,412300,0.73,Switzerland2009,,"541,506,500,414",73529,Generation Z,46.818188,8.227511999999999
+Switzerland,Europe,2009,female,5-14 years,1,388714,0.26,Switzerland2009,,"541,506,500,414",73529,Generation Z,46.818188,8.227511999999999
+Thailand,Asia,2009,male,75+ years,116,755613,15.35,Thailand2009,,"281,710,095,725",4736,Silent,15.870032,100.992541
+Thailand,Asia,2009,male,55-74 years,542,3927105,13.8,Thailand2009,,"281,710,095,725",4736,Silent,15.870032,100.992541
+Thailand,Asia,2009,male,25-34 years,707,5357432,13.2,Thailand2009,,"281,710,095,725",4736,Generation X,15.870032,100.992541
+Thailand,Asia,2009,male,35-54 years,1172,9681789,12.11,Thailand2009,,"281,710,095,725",4736,Boomers,15.870032,100.992541
+Thailand,Asia,2009,male,15-24 years,369,4914657,7.51,Thailand2009,,"281,710,095,725",4736,Millenials,15.870032,100.992541
+Thailand,Asia,2009,female,55-74 years,185,4542278,4.07,Thailand2009,,"281,710,095,725",4736,Silent,15.870032,100.992541
+Thailand,Asia,2009,female,35-54 years,382,10260748,3.72,Thailand2009,,"281,710,095,725",4736,Boomers,15.870032,100.992541
+Thailand,Asia,2009,female,75+ years,35,1099718,3.18,Thailand2009,,"281,710,095,725",4736,Silent,15.870032,100.992541
+Thailand,Asia,2009,female,25-34 years,142,5309573,2.67,Thailand2009,,"281,710,095,725",4736,Generation X,15.870032,100.992541
+Thailand,Asia,2009,female,15-24 years,100,4716781,2.12,Thailand2009,,"281,710,095,725",4736,Millenials,15.870032,100.992541
+Thailand,Asia,2009,male,5-14 years,20,4588799,0.44,Thailand2009,,"281,710,095,725",4736,Generation Z,15.870032,100.992541
+Thailand,Asia,2009,female,5-14 years,17,4329225,0.39,Thailand2009,,"281,710,095,725",4736,Generation Z,15.870032,100.992541
+Trinidad and Tobago,North America,2009,male,25-34 years,27,114143,23.65,Trinidad and Tobago2009,,"19,175,196,446",15652,Generation X,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,male,15-24 years,25,115721,21.6,Trinidad and Tobago2009,,"19,175,196,446",15652,Millenials,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,male,35-54 years,38,180029,21.11,Trinidad and Tobago2009,,"19,175,196,446",15652,Boomers,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,male,75+ years,3,14407,20.82,Trinidad and Tobago2009,,"19,175,196,446",15652,Silent,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,male,55-74 years,13,90729,14.33,Trinidad and Tobago2009,,"19,175,196,446",15652,Silent,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,female,55-74 years,6,98779,6.07,Trinidad and Tobago2009,,"19,175,196,446",15652,Silent,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,female,15-24 years,5,113362,4.41,Trinidad and Tobago2009,,"19,175,196,446",15652,Millenials,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,female,25-34 years,5,113622,4.4,Trinidad and Tobago2009,,"19,175,196,446",15652,Generation X,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,female,35-54 years,5,182233,2.74,Trinidad and Tobago2009,,"19,175,196,446",15652,Boomers,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,male,5-14 years,1,90312,1.11,Trinidad and Tobago2009,,"19,175,196,446",15652,Generation Z,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,female,5-14 years,0,87970,0.0,Trinidad and Tobago2009,,"19,175,196,446",15652,Generation Z,10.691803,-61.222503
+Trinidad and Tobago,North America,2009,female,75+ years,0,23790,0.0,Trinidad and Tobago2009,,"19,175,196,446",15652,Silent,10.691803,-61.222503
+Turkey,Asia,2009,male,75+ years,33,806623,4.09,Turkey2009,,"644,639,902,581",9773,Silent,38.963745,35.243322
+Turkey,Asia,2009,male,55-74 years,130,3897113,3.34,Turkey2009,,"644,639,902,581",9773,Silent,38.963745,35.243322
+Turkey,Asia,2009,male,35-54 years,287,9160329,3.13,Turkey2009,,"644,639,902,581",9773,Boomers,38.963745,35.243322
+Turkey,Asia,2009,male,25-34 years,189,6272520,3.01,Turkey2009,,"644,639,902,581",9773,Generation X,38.963745,35.243322
+Turkey,Asia,2009,male,15-24 years,139,6380792,2.18,Turkey2009,,"644,639,902,581",9773,Millenials,38.963745,35.243322
+Turkey,Asia,2009,female,75+ years,17,1170072,1.45,Turkey2009,,"644,639,902,581",9773,Silent,38.963745,35.243322
+Turkey,Asia,2009,female,15-24 years,74,6097408,1.21,Turkey2009,,"644,639,902,581",9773,Millenials,38.963745,35.243322
+Turkey,Asia,2009,female,55-74 years,38,4301203,0.88,Turkey2009,,"644,639,902,581",9773,Silent,38.963745,35.243322
+Turkey,Asia,2009,female,25-34 years,44,6101898,0.72,Turkey2009,,"644,639,902,581",9773,Generation X,38.963745,35.243322
+Turkey,Asia,2009,female,35-54 years,58,9027289,0.64,Turkey2009,,"644,639,902,581",9773,Boomers,38.963745,35.243322
+Turkey,Asia,2009,male,5-14 years,23,6542691,0.35,Turkey2009,,"644,639,902,581",9773,Generation Z,38.963745,35.243322
+Turkey,Asia,2009,female,5-14 years,18,6204481,0.29,Turkey2009,,"644,639,902,581",9773,Generation Z,38.963745,35.243322
+Turkmenistan,Asia,2009,male,15-24 years,47,551843,8.52,Turkmenistan2009,,"20,214,385,965",4508,Millenials,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,male,75+ years,2,28728,6.96,Turkmenistan2009,,"20,214,385,965",4508,Silent,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,male,25-34 years,28,409223,6.84,Turkmenistan2009,,"20,214,385,965",4508,Generation X,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,male,35-54 years,33,546900,6.03,Turkmenistan2009,,"20,214,385,965",4508,Boomers,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,male,55-74 years,7,171156,4.09,Turkmenistan2009,,"20,214,385,965",4508,Silent,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,female,15-24 years,20,545660,3.67,Turkmenistan2009,,"20,214,385,965",4508,Millenials,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,female,25-34 years,14,413552,3.39,Turkmenistan2009,,"20,214,385,965",4508,Generation X,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,male,5-14 years,8,490138,1.63,Turkmenistan2009,,"20,214,385,965",4508,Generation Z,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,female,35-54 years,3,590092,0.51,Turkmenistan2009,,"20,214,385,965",4508,Boomers,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,female,55-74 years,1,206817,0.48,Turkmenistan2009,,"20,214,385,965",4508,Silent,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,female,5-14 years,2,478874,0.42,Turkmenistan2009,,"20,214,385,965",4508,Generation Z,38.969719,59.556278000000006
+Turkmenistan,Asia,2009,female,75+ years,0,51484,0.0,Turkmenistan2009,,"20,214,385,965",4508,Silent,38.969719,59.556278000000006
+Ukraine,Europe,2009,male,75+ years,532,802009,66.33,Ukraine2009,,"117,227,769,792",2691,Silent,48.379433,31.16558
+Ukraine,Europe,2009,male,35-54 years,3133,6221337,50.36,Ukraine2009,,"117,227,769,792",2691,Boomers,48.379433,31.16558
+Ukraine,Europe,2009,male,55-74 years,1882,3841612,48.99,Ukraine2009,,"117,227,769,792",2691,Silent,48.379433,31.16558
+Ukraine,Europe,2009,male,25-34 years,1504,3534883,42.55,Ukraine2009,,"117,227,769,792",2691,Generation X,48.379433,31.16558
+Ukraine,Europe,2009,male,15-24 years,906,3418274,26.5,Ukraine2009,,"117,227,769,792",2691,Millenials,48.379433,31.16558
+Ukraine,Europe,2009,female,75+ years,313,2034703,15.38,Ukraine2009,,"117,227,769,792",2691,Silent,48.379433,31.16558
+Ukraine,Europe,2009,female,55-74 years,556,5806966,9.57,Ukraine2009,,"117,227,769,792",2691,Silent,48.379433,31.16558
+Ukraine,Europe,2009,female,35-54 years,502,6971143,7.2,Ukraine2009,,"117,227,769,792",2691,Boomers,48.379433,31.16558
+Ukraine,Europe,2009,female,25-34 years,186,3494937,5.32,Ukraine2009,,"117,227,769,792",2691,Generation X,48.379433,31.16558
+Ukraine,Europe,2009,female,15-24 years,148,3267238,4.53,Ukraine2009,,"117,227,769,792",2691,Millenials,48.379433,31.16558
+Ukraine,Europe,2009,male,5-14 years,34,2136975,1.59,Ukraine2009,,"117,227,769,792",2691,Generation Z,48.379433,31.16558
+Ukraine,Europe,2009,female,5-14 years,19,2027867,0.94,Ukraine2009,,"117,227,769,792",2691,Generation Z,48.379433,31.16558
+United Arab Emirates,Asia,2009,male,25-34 years,52,2097782,2.48,United Arab Emirates2009,,"253,547,358,747",34960,Generation X,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,male,15-24 years,15,780955,1.92,United Arab Emirates2009,,"253,547,358,747",34960,Millenials,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,male,35-54 years,39,2094463,1.86,United Arab Emirates2009,,"253,547,358,747",34960,Boomers,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,male,55-74 years,3,161132,1.86,United Arab Emirates2009,,"253,547,358,747",34960,Silent,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,female,15-24 years,7,385569,1.82,United Arab Emirates2009,,"253,547,358,747",34960,Millenials,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,female,25-34 years,4,539991,0.74,United Arab Emirates2009,,"253,547,358,747",34960,Generation X,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,female,5-14 years,2,316123,0.63,United Arab Emirates2009,,"253,547,358,747",34960,Generation Z,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,female,35-54 years,2,475003,0.42,United Arab Emirates2009,,"253,547,358,747",34960,Boomers,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,female,55-74 years,0,51590,0.0,United Arab Emirates2009,,"253,547,358,747",34960,Silent,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,female,75+ years,0,6796,0.0,United Arab Emirates2009,,"253,547,358,747",34960,Silent,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,male,5-14 years,0,332784,0.0,United Arab Emirates2009,,"253,547,358,747",34960,Generation Z,23.424076,53.847818000000004
+United Arab Emirates,Asia,2009,male,75+ years,0,10292,0.0,United Arab Emirates2009,,"253,547,358,747",34960,Silent,23.424076,53.847818000000004
+United Kingdom,Europe,2009,male,35-54 years,1542,8582671,17.97,United Kingdom2009,,"2,382,825,985,356",41074,Boomers,55.378051,-3.435973
+United Kingdom,Europe,2009,male,25-34 years,564,4047103,13.94,United Kingdom2009,,"2,382,825,985,356",41074,Generation X,55.378051,-3.435973
+United Kingdom,Europe,2009,male,55-74 years,676,6096376,11.09,United Kingdom2009,,"2,382,825,985,356",41074,Silent,55.378051,-3.435973
+United Kingdom,Europe,2009,male,75+ years,195,1911370,10.2,United Kingdom2009,,"2,382,825,985,356",41074,Silent,55.378051,-3.435973
+United Kingdom,Europe,2009,male,15-24 years,332,4210903,7.88,United Kingdom2009,,"2,382,825,985,356",41074,Millenials,55.378051,-3.435973
+United Kingdom,Europe,2009,female,35-54 years,387,8778984,4.41,United Kingdom2009,,"2,382,825,985,356",41074,Boomers,55.378051,-3.435973
+United Kingdom,Europe,2009,female,55-74 years,229,6497453,3.52,United Kingdom2009,,"2,382,825,985,356",41074,Silent,55.378051,-3.435973
+United Kingdom,Europe,2009,female,25-34 years,133,3946153,3.37,United Kingdom2009,,"2,382,825,985,356",41074,Generation X,55.378051,-3.435973
+United Kingdom,Europe,2009,female,75+ years,97,2915785,3.33,United Kingdom2009,,"2,382,825,985,356",41074,Silent,55.378051,-3.435973
+United Kingdom,Europe,2009,female,15-24 years,84,4009556,2.09,United Kingdom2009,,"2,382,825,985,356",41074,Millenials,55.378051,-3.435973
+United Kingdom,Europe,2009,male,5-14 years,4,3591283,0.11,United Kingdom2009,,"2,382,825,985,356",41074,Generation Z,55.378051,-3.435973
+United Kingdom,Europe,2009,female,5-14 years,3,3425922,0.09,United Kingdom2009,,"2,382,825,985,356",41074,Generation Z,55.378051,-3.435973
+United States,North America,2009,male,75+ years,2552,7168575,35.6,United States2009,,"14,418,739,000,000",50563,Silent,37.09024,-95.712891
+United States,North America,2009,male,35-54 years,11613,42932194,27.05,United States2009,,"14,418,739,000,000",50563,Boomers,37.09024,-95.712891
+United States,North America,2009,male,55-74 years,6851,26664733,25.69,United States2009,,"14,418,739,000,000",50563,Silent,37.09024,-95.712891
+United States,North America,2009,male,25-34 years,4293,20205941,21.25,United States2009,,"14,418,739,000,000",50563,Generation X,37.09024,-95.712891
+United States,North America,2009,male,15-24 years,3595,22343137,16.09,United States2009,,"14,418,739,000,000",50563,Millenials,37.09024,-95.712891
+United States,North America,2009,female,35-54 years,3664,42836835,8.55,United States2009,,"14,418,739,000,000",50563,Boomers,37.09024,-95.712891
+United States,North America,2009,female,55-74 years,1875,29296258,6.4,United States2009,,"14,418,739,000,000",50563,Silent,37.09024,-95.712891
+United States,North America,2009,female,25-34 years,1027,19992900,5.14,United States2009,,"14,418,739,000,000",50563,Generation X,37.09024,-95.712891
+United States,North America,2009,female,15-24 years,776,21299140,3.64,United States2009,,"14,418,739,000,000",50563,Millenials,37.09024,-95.712891
+United States,North America,2009,female,75+ years,389,11101144,3.5,United States2009,,"14,418,739,000,000",50563,Silent,37.09024,-95.712891
+United States,North America,2009,male,5-14 years,175,21139852,0.83,United States2009,,"14,418,739,000,000",50563,Generation Z,37.09024,-95.712891
+United States,North America,2009,female,5-14 years,90,20181953,0.45,United States2009,,"14,418,739,000,000",50563,Generation Z,37.09024,-95.712891
+Uruguay,South America,2009,male,75+ years,59,76759,76.86,Uruguay2009,,"31,660,911,277",10166,Silent,-32.522779,-55.765834999999996
+Uruguay,South America,2009,male,55-74 years,99,253331,39.08,Uruguay2009,,"31,660,911,277",10166,Silent,-32.522779,-55.765834999999996
+Uruguay,South America,2009,male,25-34 years,79,238754,33.09,Uruguay2009,,"31,660,911,277",10166,Generation X,-32.522779,-55.765834999999996
+Uruguay,South America,2009,male,35-54 years,107,401900,26.62,Uruguay2009,,"31,660,911,277",10166,Boomers,-32.522779,-55.765834999999996
+Uruguay,South America,2009,male,15-24 years,64,260287,24.59,Uruguay2009,,"31,660,911,277",10166,Millenials,-32.522779,-55.765834999999996
+Uruguay,South America,2009,female,75+ years,14,147420,9.5,Uruguay2009,,"31,660,911,277",10166,Silent,-32.522779,-55.765834999999996
+Uruguay,South America,2009,female,55-74 years,28,306049,9.15,Uruguay2009,,"31,660,911,277",10166,Silent,-32.522779,-55.765834999999996
+Uruguay,South America,2009,female,35-54 years,35,424092,8.25,Uruguay2009,,"31,660,911,277",10166,Boomers,-32.522779,-55.765834999999996
+Uruguay,South America,2009,female,15-24 years,13,251731,5.16,Uruguay2009,,"31,660,911,277",10166,Millenials,-32.522779,-55.765834999999996
+Uruguay,South America,2009,female,25-34 years,12,237146,5.06,Uruguay2009,,"31,660,911,277",10166,Generation X,-32.522779,-55.765834999999996
+Uruguay,South America,2009,female,5-14 years,1,253321,0.39,Uruguay2009,,"31,660,911,277",10166,Generation Z,-32.522779,-55.765834999999996
+Uruguay,South America,2009,male,5-14 years,0,263516,0.0,Uruguay2009,,"31,660,911,277",10166,Generation Z,-32.522779,-55.765834999999996
+Uzbekistan,Asia,2009,male,35-54 years,404,3072025,13.15,Uzbekistan2009,,"33,689,223,673",1332,Boomers,41.377491,64.585262
+Uzbekistan,Asia,2009,male,25-34 years,252,2295850,10.98,Uzbekistan2009,,"33,689,223,673",1332,Generation X,41.377491,64.585262
+Uzbekistan,Asia,2009,male,55-74 years,81,985960,8.22,Uzbekistan2009,,"33,689,223,673",1332,Silent,41.377491,64.585262
+Uzbekistan,Asia,2009,male,15-24 years,242,3176656,7.62,Uzbekistan2009,,"33,689,223,673",1332,Millenials,41.377491,64.585262
+Uzbekistan,Asia,2009,female,15-24 years,186,3079271,6.04,Uzbekistan2009,,"33,689,223,673",1332,Millenials,41.377491,64.585262
+Uzbekistan,Asia,2009,female,25-34 years,85,2313972,3.67,Uzbekistan2009,,"33,689,223,673",1332,Generation X,41.377491,64.585262
+Uzbekistan,Asia,2009,male,75+ years,7,192006,3.65,Uzbekistan2009,,"33,689,223,673",1332,Silent,41.377491,64.585262
+Uzbekistan,Asia,2009,female,75+ years,7,318983,2.19,Uzbekistan2009,,"33,689,223,673",1332,Silent,41.377491,64.585262
+Uzbekistan,Asia,2009,female,35-54 years,65,3263931,1.99,Uzbekistan2009,,"33,689,223,673",1332,Boomers,41.377491,64.585262
+Uzbekistan,Asia,2009,female,55-74 years,15,1105076,1.36,Uzbekistan2009,,"33,689,223,673",1332,Silent,41.377491,64.585262
+Uzbekistan,Asia,2009,male,5-14 years,37,2805898,1.32,Uzbekistan2009,,"33,689,223,673",1332,Generation Z,41.377491,64.585262
+Uzbekistan,Asia,2009,female,5-14 years,18,2678474,0.67,Uzbekistan2009,,"33,689,223,673",1332,Generation Z,41.377491,64.585262
