@@ -30,9 +30,9 @@ Gender, age group and generation analysis
 Analysis by continent
 How does suicide rate and economies of the countries correlate?
 
-Possibly choose few countries(3) and look at gdp v. suicide rate (scatter plot)
-Line plots of GDP and suicide rate on Y avis and year on x axis (Choose countries based on economy)
-3a) Are men or women more likely to commit suicide? 3b) What is the relationship between age groups and generation on suicide rates? - Get more granular on this since we have already looked at it on global scale (Maybe North America etc)
+Are men or women more likely to commit suicide?
+
+What is the relationship between age groups and generation on suicide rates? 
 
 What are the top 5 or 10 countries with the highest suicide rates in the world?
 
